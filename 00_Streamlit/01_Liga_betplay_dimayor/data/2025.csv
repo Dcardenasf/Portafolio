@@ -1,0 +1,840 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches,-9999
+1,José Abad Cuenú,co COL,DF,Junior,29,1995,18,15,1344,14.9,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,32b32e92
+2,Joao Abonia,co COL,DFMF,La Equidad,24,2000,33,29,2520,28.0,0,1,1,0,0,0,7,1,0.00,0.04,0.04,0.00,0.04,Matches,50b666eb
+3,Humberto Acevedo,co COL,GK,Llaneros,27,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,13b6c09b
+4,Felipe Acosta,co COL,MF,La Equidad,30,1994,19,16,1414,15.7,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,430847b9
+5,Sebastián Acosta,co COL,FWMF,Pereira,30,1994,3,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1f1f20af
+6,Stiwart Acuña,co COL,FW,Junior,25,1999,3,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4ed6dfd8
+7,Gustavo Adrián Ramírez,py PAR,FW,Deportes Tolima,34,1990,9,4,397,4.4,1,0,1,1,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches,add19210
+8,Andres Aedo,co COL,DFMF,Boyacá Chicó,20,2004,22,9,952,10.6,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,6c39a529
+9,Miguel Agámez,co COL,MF,Junior,15,2009,2,0,25,0.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,f0dc6cec
+10,Bleiner Agrón,co COL,DF,Envigado FC,23,2001,9,8,690,7.7,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,9a5930fd
+11,Bleiner Agrón,co COL,DFMF,La Equidad,23,2001,9,9,755,8.4,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches,9a5930fd
+12,Washington Aguerre,uy URU,GK,Ind. Medellín,31,1993,39,39,3446,38.3,0,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches,19da9ece
+13,Felipe Aguilar,co COL,DF,Deportivo Cali,32,1993,10,8,775,8.6,1,0,1,1,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,c285529f
+14,Felipe Aguilar,co COL,DF,Águilas Doradas,32,1993,6,2,208,2.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,c285529f
+15,Santiago Aguilar,co COL,DF,Pereira,26,1998,24,23,2028,22.5,0,1,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches,52e3813c
+16,James Aguirre,co COL,GK,Once Caldas,32,1992,39,39,3510,39.0,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,931d5350
+17,Miguel Aguirre,,MF,Pereira,,,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f4536736
+18,Andrés Alarcón,co COL,DF,Deportivo Pasto,23,2001,25,25,2205,24.5,4,0,4,4,0,0,9,0,0.16,0.00,0.16,0.16,0.16,Matches,bc54ec4d
+19,Israel Alba,co COL,DF,Deportivo Pasto,29,1995,15,15,1283,14.3,2,2,4,2,0,0,2,0,0.14,0.14,0.28,0.14,0.28,Matches,5abf2810
+20,Israel Alba,co COL,MFDF,Bucaramanga,29,1995,3,2,102,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5abf2810
+21,Omar Albornoz,co COL,MFFW,Santa Fe,29,1995,11,2,284,3.2,1,0,1,1,0,0,1,0,0.32,0.00,0.32,0.32,0.32,Matches,8f504f7a
+22,Omar Albornoz,co COL,DFMF,Pereira,29,1995,16,9,893,9.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,8f504f7a
+23,Diego Alejandro Martínez,co COL,GK,Deportivo Pasto,35,1989,13,13,1170,13.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,c9819186
+24,Luis Alejandro Paz,co COL,MF,América Cali,36,1988,11,5,424,4.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,792aecce
+25,Janeth Aleman,co COL,MF,U. Magdalena,22,2002,15,1,373,4.1,0,1,1,0,0,0,1,0,0.00,0.24,0.24,0.00,0.24,Matches,cdcdac92
+26,Delvin Alfonzo,ve VEN,DF,Millonarios,24,2000,5,5,360,4.0,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,2b1ac5aa
+27,Delvin Alfonzo,ve VEN,DF,Águilas Doradas,24,2000,9,6,558,6.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2b1ac5aa
+28,Jaime Alvarado,co COL,MFFW,Ind. Medellín,25,1999,44,23,2447,27.2,0,1,1,0,0,0,7,0,0.00,0.04,0.04,0.00,0.04,Matches,0cb5f8bb
+29,Alejandro Álvarez,co COL,FW,Pereira,20,2004,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e8238686
+30,Éder Álvarez Balanta,co COL,MF,América Cali,31,1993,12,12,896,10.0,1,1,2,1,0,0,7,0,0.10,0.10,0.20,0.10,0.20,Matches,8ce30c57
+31,Gilbert Álvarez,bo BOL,FW,Once Caldas,32,1992,15,2,326,3.6,1,0,1,1,0,1,1,0,0.28,0.00,0.28,0.28,0.28,Matches,9e243bfd
+32,Julián Alveiro Quiñones,co COL,DF,Deportes Tolima,35,1989,14,10,946,10.5,2,0,2,2,0,0,5,0,0.19,0.00,0.19,0.19,0.19,Matches,71d5fdc4
+33,Julián Alveiro Quiñones,co COL,DFMF,Deportivo Cali,35,1989,11,10,795,8.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,71d5fdc4
+34,Santiago Alzate,,DF,Pereira,,,4,1,173,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9ab36554
+35,Miguel Amaya,co COL,DF,La Equidad,20,2004,12,10,872,9.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0007f973
+36,Guillermo de Amores,uy URU,GK,Millonarios,30,1994,5,5,375,4.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,489f6f84
+37,José Ampudia,co COL,DF,Boyacá Chicó,24,2000,30,30,2606,29.0,0,1,1,0,0,0,5,0,0.00,0.03,0.03,0.00,0.03,Matches,5157cfaa
+38,Andrés Andrade,co COL,MF,Bucaramanga,35,1989,5,2,193,2.1,0,1,1,0,0,0,0,0,0.00,0.47,0.47,0.00,0.47,Matches,6fe53d33
+39,Jhoyler Andrades,co COL,GK,Santa Fe,20,2004,2,1,136,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,23e4c21d
+40,Omar Andres Bertel,co COL,DF,América Cali,28,1996,26,23,1972,21.9,0,2,2,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches,ce1c0b3e
+41,Carlos Andrés Ramírez,co COL,DF,Envigado FC,36,1988,17,16,1441,16.0,0,0,0,0,0,1,5,0,0.00,0.00,0.00,0.00,0.00,Matches,7f083ee1
+42,Fabián Ángel,co COL,MF,Junior,24,2001,30,11,1414,15.7,3,0,3,3,0,0,4,0,0.19,0.00,0.19,0.19,0.19,Matches,df64e45e
+43,Anderson Angulo,co COL,DF,Deportes Tolima,28,1996,38,37,3204,35.6,0,1,1,0,0,0,10,0,0.00,0.03,0.03,0.00,0.03,Matches,6f7cc442
+44,Jan Ángulo,co COL,DF,Llaneros,23,2001,39,38,3421,38.0,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,f178ea86
+45,Jeison Angulo,co COL,DFMF,Santa Fe,28,1996,31,10,1185,13.2,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches,7c033200
+46,Julián Angulo,co COL,MFFW,Llaneros,22,2002,18,14,1198,13.3,3,5,8,3,0,0,2,1,0.23,0.38,0.60,0.23,0.60,Matches,561af97d
+47,Julián Angulo,co COL,FW,Ind. Medellín,22,2002,8,0,191,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,561af97d
+48,Kevin Angulo,co COL,FW,América Cali,16,2008,13,1,301,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,27ac9614
+49,Leandro Angulo,co COL,MF,Santa Fe,23,2001,2,1,75,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e6df9305
+50,Leandro Angulo,co COL,MF,Envigado FC,23,2001,3,1,111,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,e6df9305
+51,Michael Aponza,co COL,MF,Deportivo Cali,19,2005,13,8,611,6.8,0,1,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches,3be74e66
+52,Sergio Aponzá,co COL,MFFW,Alianza Petrolera,19,2005,26,2,556,6.2,1,1,2,1,0,0,6,0,0.16,0.16,0.32,0.16,0.32,Matches,39e140ab
+53,Orles Aragón,co COL,FWMF,U. Magdalena,27,1997,10,4,389,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ccfd824e
+54,Estefano Arango,co COL,MFFW,Boyacá Chicó,31,1994,28,25,2100,23.3,3,3,6,3,0,0,12,2,0.13,0.13,0.26,0.13,0.26,Matches,317f0fb3
+55,John Arango,co COL,MF,Boyacá Chicó,27,1998,11,3,354,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b4c2a30e
+56,Juan Arango,co COL,MF,Deportivo Cali,17,2007,17,1,442,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,fcefe7f2
+57,Jhon Araujo,co COL,MF,Envigado FC,22,2002,14,2,371,4.1,1,1,2,1,0,0,1,0,0.24,0.24,0.49,0.24,0.49,Matches,fbafeb17
+58,Iván Arboleda,co COL,GK,Millonarios,28,1996,3,3,270,3.0,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,f8cfae1f
+59,Yair Arboleda,co COL,FW,Deportivo Pasto,28,1996,4,0,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0a4df1c7
+60,Billy Arce,ec ECU,MF,Atlético Nacional,26,1998,27,14,1267,14.1,2,0,2,2,0,0,6,0,0.14,0.00,0.14,0.14,0.14,Matches,44af2ec3
+61,Daniel Arcila,co COL,MFFW,Envigado FC,22,2002,21,21,1805,20.1,6,1,7,3,3,3,6,1,0.30,0.05,0.35,0.15,0.20,Matches,d6dfc13f
+62,Nicolás Árevalo,co COL,MF,Millonarios,21,2003,35,33,2775,30.8,1,3,4,1,0,0,7,1,0.03,0.10,0.13,0.03,0.13,Matches,1f102340
+63,Juan Arias,co COL,DF,Atlético Nacional,21,2004,29,28,2359,26.2,1,0,1,1,0,0,7,2,0.04,0.00,0.04,0.04,0.04,Matches,a36efa99
+64,Emilio Aristizábal,co COL,FW,Fortaleza FC,19,2005,34,31,2535,28.2,12,2,14,9,3,3,2,0,0.43,0.07,0.50,0.32,0.39,Matches,268dec15
+65,Juan Aristizábal,co COL,MF,Envigado FC,19,2005,5,2,222,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,bc1bc4e5
+66,Juan Arizala,co COL,MF,Ind. Medellín,19,2005,25,14,1272,14.1,2,1,3,2,0,0,0,0,0.14,0.07,0.21,0.14,0.21,Matches,82f2e5c8
+67,Eduar Arízalas,co COL,MF,Pereira,23,2001,7,4,381,4.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c8af3576
+68,Kevin Armesto,co COL,GK,Llaneros,27,1997,16,16,1440,16.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0c8eef50
+69,Emmanuel Arrechea,co COL,DF,Fortaleza FC,19,2005,5,2,254,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,bc16b65a
+70,Cristian Arrieta,co COL,DF,Deportes Tolima,29,1996,25,12,1189,13.2,1,1,2,1,0,0,4,1,0.08,0.08,0.15,0.08,0.15,Matches,bb5149ee
+71,Gabriel Arrieta,co COL,FW,U. Magdalena,19,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,53ec4ab5
+72,Andrés Arroyo,co COL,MFFW,Deportes Tolima,23,2002,16,14,1010,11.2,5,1,6,5,0,0,2,1,0.45,0.09,0.53,0.45,0.53,Matches,f32f115d
+73,Andrés Arroyo,co COL,MFFW,Fortaleza FC,23,2002,23,19,1534,17.0,4,1,5,4,0,0,2,0,0.23,0.06,0.29,0.23,0.29,Matches,f32f115d
+74,Manuel Arteaga,ec ECU,MF,Once Caldas,25,1999,4,1,130,1.4,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,788d7a55
+75,Alejandro Artunduaga,co COL,DF,Bucaramanga,27,1997,4,3,201,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fceadb9b
+76,Dairon Asprilla,co COL,MFFW,Atlético Nacional,32,1992,35,14,1581,17.6,6,2,8,6,0,0,3,1,0.34,0.11,0.46,0.34,0.46,Matches,218d336c
+77,Jefferson Asprilla,co COL,DF,La Equidad,21,2003,4,0,95,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ecba4e80
+78,Weimar Asprilla,co COL,GK,Santa Fe,25,1999,5,5,404,4.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,05936223
+79,Samuel Atehortua,,GK,Pereira,,,3,3,254,2.8,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,f9ee3b92
+80,Juan Ávalo,co COL,MFFW,Águilas Doradas,23,2001,14,4,523,5.8,0,1,1,0,0,0,1,0,0.00,0.17,0.17,0.00,0.17,Matches,3ddca063
+81,Carlos Bacca,co COL,FW,Junior,38,1986,19,14,989,11.0,4,2,6,3,1,1,2,0,0.36,0.18,0.55,0.27,0.46,Matches,09a9e921
+82,Miller Bacca,co COL,FW,Junior,21,2003,5,2,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0a6666ea
+83,Cristian Báez,py PAR,DF,Junior,34,1990,44,43,3787,42.1,2,1,3,2,0,2,8,1,0.05,0.02,0.07,0.05,0.07,Matches,56d59ae0
+84,Gali Balanta,co COL,GK,Deportes Tolima,22,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6717c887
+85,Jhon Balanta,co COL,DF,Fortaleza FC,26,1998,37,35,2982,33.1,1,0,1,1,0,0,8,1,0.03,0.00,0.03,0.03,0.03,Matches,69f720a0
+86,Kevin Balanta,co COL,MF,Fortaleza FC,20,2004,21,16,1467,16.3,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,b4aaf59d
+87,Marlon Balanta,co COL,MFFW,Santa Fe,16,2008,10,2,249,2.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,333c2cc0
+88,Geovanni Banguera,co COL,GK,Águilas Doradas,29,1995,10,10,900,10.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,ae6581fe
+89,Arlen Banguero,co COL,DF,Boyacá Chicó,24,2000,22,21,1848,20.5,1,0,1,1,0,0,7,1,0.05,0.00,0.05,0.05,0.05,Matches,de0e9837
+90,Danovis Banguero,co COL,DF,Millonarios,35,1989,39,36,3339,37.1,2,6,8,2,0,0,11,1,0.05,0.16,0.22,0.05,0.22,Matches,731ba146
+91,Eduard Banguero,co COL,DF,La Equidad,23,2001,4,0,81,0.9,1,0,1,1,0,0,0,0,1.11,0.00,1.11,1.11,1.11,Matches,ba74aad0
+92,Eduard Banguero,co COL,MFDF,Boyacá Chicó,23,2001,13,10,896,10.0,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches,ba74aad0
+93,Jarlan Barrera,co COL,MFFW,Deportivo Cali,29,1995,18,18,1447,16.1,1,4,5,1,0,0,6,1,0.06,0.25,0.31,0.06,0.31,Matches,13ff0028
+94,Jarlan Barrera,co COL,FWMF,Ind. Medellín,29,1995,19,13,1147,12.7,1,4,5,1,0,0,1,0,0.08,0.31,0.39,0.08,0.39,Matches,13ff0028
+95,Jerónimo Barrera,co COL,MF,Fortaleza FC,20,2004,17,8,718,8.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,7ce00840
+96,Jordan Barrera,co COL,MF,Junior,18,2006,14,9,732,8.1,1,2,3,1,0,0,1,0,0.12,0.25,0.37,0.12,0.37,Matches,abe7a9c6
+97,Sebastian Barrera,co COL,FW,Boyacá Chicó,18,2006,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8f232737
+98,Oscar Barreto,co COL,MFFW,U. Magdalena,31,1993,14,9,701,7.8,1,0,1,1,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches,9964fc60
+99,Cristian Barrios,co COL,MFFW,América Cali,26,1998,38,32,2804,31.2,5,8,13,5,0,0,2,1,0.16,0.26,0.42,0.16,0.42,Matches,69b57d35
+100,Michael Barrios,co COL,MFFW,Once Caldas,33,1991,36,35,2664,29.6,8,3,11,7,1,1,5,0,0.27,0.10,0.37,0.24,0.34,Matches,df782c79
+101,Andy Batioja,co COL,FW,Atlético Nacional,19,2006,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ff625e8a
+102,Facundo Batista,uy URU,FW,Atlético Nacional,26,1999,18,3,452,5.0,4,0,4,2,2,2,1,0,0.80,0.00,0.80,0.40,0.40,Matches,02cf308a
+103,Juan Bauza,ar ARG,MF,Atlético Nacional,28,1996,19,13,1083,12.0,2,2,4,2,0,0,2,0,0.17,0.17,0.33,0.17,0.33,Matches,8b6ac404
+104,Julián Bazán,co COL,DF,Pereira,19,2005,8,5,451,5.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,283da796
+105,Eduar Beltrán,co COL,GK,La Equidad,24,2000,8,8,720,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,4a11cb04
+106,Eduar Beltrán,co COL,GK,U. Magdalena,24,2000,17,17,1530,17.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4a11cb04
+107,Brian Benítez,ar ARG,MF,Llaneros,28,1996,15,6,581,6.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,e98fea84
+108,Royner Benítez,co COL,FWMF,Águilas Doradas,19,2005,17,6,530,5.9,1,0,1,1,0,0,1,0,0.17,0.00,0.17,0.17,0.17,Matches,bdc04731
+109,Leider Berdugo,co COL,MF,Junior,22,2002,2,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,58907c8f
+110,Jorge Bermúdez,co COL,MF,Pereira,23,2001,16,12,975,10.8,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,6627ce27
+111,José Bernal,pa PAN,FW,Llaneros,22,2002,2,1,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f5d63414
+112,José Bernal,pa PAN,MF,Deportivo Pasto,22,2002,13,9,708,7.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f5d63414
+113,Frey Berrio,co COL,MF,Envigado FC,17,2007,21,14,1045,11.6,2,0,2,2,0,0,2,2,0.17,0.00,0.17,0.17,0.17,Matches,439397c3
+114,Léider Berrío,co COL,MFFW,Ind. Medellín,26,1998,44,30,2485,27.6,8,7,15,7,1,1,13,1,0.29,0.25,0.54,0.25,0.51,Matches,1987d146
+115,Cristian Blanco,co COL,DFMF,Águilas Doradas,26,1999,9,5,440,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5e5f8874
+116,Ruyery Blanco,co COL,FWMF,U. Magdalena,26,1998,17,9,911,10.1,1,1,2,0,1,1,4,0,0.10,0.10,0.20,0.00,0.10,Matches,ac50e456
+117,Daniel Bocanegra,co COL,DF,América Cali,37,1987,16,14,1287,14.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0422ea9f
+118,Johan Bocanegra,co COL,MF,Boyacá Chicó,26,1998,18,14,1029,11.4,4,1,5,3,1,2,4,1,0.35,0.09,0.44,0.26,0.35,Matches,51d3832b
+119,Érik Bodencer,ar ARG,FW,Llaneros,24,2000,14,7,545,6.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,96549ca0
+120,Carlos Bogota,co COL,MF,Llaneros,23,2001,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0ab7a5c1
+121,Jovanny Bolívar,ve VEN,FWMF,La Equidad,23,2001,14,8,733,8.1,1,0,1,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,4cf672bc
+122,Facundo Boné,uy URU,MFFW,Deportivo Pasto,29,1995,35,29,2307,25.6,7,7,14,4,3,3,1,1,0.27,0.27,0.55,0.16,0.43,Matches,fc638fd0
+123,Cristian Borja,co COL,FW,Águilas Doradas,37,1988,9,7,565,6.3,2,0,2,1,1,1,3,0,0.32,0.00,0.32,0.16,0.16,Matches,2c4f5038
+124,Dylan Borrero,co COL,MF,América Cali,23,2002,17,7,716,8.0,4,0,4,4,0,0,2,0,0.50,0.00,0.50,0.50,0.50,Matches,a72d14de
+125,Rafael Bustamante,co COL,MF,Deportivo Cali,25,1999,19,10,847,9.4,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,b40d1559
+126,Jhon Cabal,co COL,FW,Deportivo Cali,21,2003,8,1,216,2.4,1,0,1,1,0,0,0,0,0.42,0.00,0.42,0.42,0.42,Matches,59c29871
+127,Johan Caballero,co COL,MFFW,Águilas Doradas,26,1998,37,28,2331,25.9,3,6,9,3,0,0,4,0,0.12,0.23,0.35,0.12,0.35,Matches,5cca082c
+128,Carlos Cabarcas,co COL,,Boyacá Chicó,18,2006,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c918793e
+129,Edison Cabeza,ec ECU,DF,Fortaleza FC,22,2002,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d5e26d66
+130,Edwin Cabezas,co COL,DF,Fortaleza FC,19,2005,6,1,191,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,885295b2
+131,Gian Cabezas,co COL,MFFW,Deportivo Cali,22,2003,11,6,558,6.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bf3a0cf9
+132,Gian Cabezas,co COL,MF,Deportivo Pasto,22,2003,1,0,29,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,bf3a0cf9
+133,Jorge Cabezas,co COL,FWMF,Millonarios,21,2003,14,9,734,8.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,d4f1cfb5
+134,Óscar Cabezas,co COL,DF,Llaneros,28,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1fbe2d25
+135,Víctor Cabezas,co COL,GK,Deportivo Pasto,27,1997,25,25,2250,25.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,9ea2208c
+136,Yesus Cabrera,co COL,MF,Pereira,34,1990,23,11,1131,12.6,4,1,5,2,2,2,9,1,0.32,0.08,0.40,0.16,0.24,Matches,481168c5
+137,Gabriel Cadavid Munera,co COL,DF,Águilas Doradas,17,2007,1,1,45,0.5,1,0,1,1,0,0,0,0,2.00,0.00,2.00,2.00,2.00,Matches,7f7956e9
+138,Bayron Caicedo,co COL,DF,La Equidad,19,2005,4,1,92,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3dea8df3
+139,Deiber Caicedo,co COL,MF,Junior,24,2000,13,5,501,5.6,0,1,1,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches,9bfa2f52
+140,Fernando Caicedo,co COL,DF,Junior,24,2000,2,0,27,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ab8880b4
+141,Johan Caicedo,co COL,MF,Deportivo Pasto,20,2004,32,28,2185,24.3,2,0,2,2,0,0,13,1,0.08,0.00,0.08,0.08,0.08,Matches,5f634a30
+142,Manuel Caicedo,co COL,DF,América Cali,21,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,40df9e07
+143,Luis Caicedo Medina,ec ECU,DF,Deportivo Pasto,32,1992,28,27,2281,25.3,0,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches,1c2e5ad0
+144,Rogerio Caicedo,co COL,GK,Boyacá Chicó,31,1993,10,9,811,9.0,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,f151963c
+145,Royer Caicedo,co COL,DF,Atlético Nacional,18,2006,6,5,462,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,b1077f24
+146,José Caldera,co COL,DFMF,Deportivo Cali,22,2002,15,10,1027,11.4,1,0,1,1,0,0,4,0,0.09,0.00,0.09,0.09,0.09,Matches,34fb3326
+147,Andrés Calderón,,FW,Pereira,,,4,4,297,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2a59d163
+148,David Camacho,co COL,MFFW,Deportivo Pasto,27,1997,13,6,549,6.1,2,2,4,2,0,0,4,0,0.33,0.33,0.66,0.33,0.66,Matches,058872e4
+149,David Camacho,co COL,MFFW,Fortaleza FC,27,1997,18,11,1035,11.5,2,1,3,2,0,1,2,0,0.17,0.09,0.26,0.17,0.26,Matches,058872e4
+150,Edgard Camargo,co COL,MF,Boyacá Chicó,23,2002,27,13,1158,12.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,f5ac4d65
+151,Juan Camilo Angulo,co COL,DF,Deportivo Cali,36,1988,9,3,316,3.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,09d9f0bc
+152,Juan Camilo Chaverra,co COL,GK,Alianza Petrolera,32,1992,30,30,2610,29.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f3f4c2e3
+153,Juan Camilo Mosquera,co COL,MF,Bucaramanga,22,2002,21,8,775,8.6,2,0,2,2,0,0,3,0,0.23,0.00,0.23,0.23,0.23,Matches,10af93d4
+154,Johan Campaña,co COL,FW,Deportivo Pasto,22,2002,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b116b406
+155,Juan Campos,,FW,Santa Fe,,,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a944e573
+156,Jorman Campuzano,co COL,MF,Atlético Nacional,28,1996,43,39,3509,39.0,3,2,5,0,3,3,15,1,0.08,0.05,0.13,0.00,0.05,Matches,5ca52045
+157,Joel Canchimbo,co COL,FW,Junior,19,2005,13,0,248,2.8,3,1,4,3,0,0,0,0,1.09,0.36,1.45,1.09,1.45,Matches,dbbac7a1
+158,Yerson Candelo,co COL,DF,América Cali,32,1992,20,15,1368,15.2,0,1,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches,ea35ffb9
+159,Camilo Cándido,uy URU,DF,Atlético Nacional,29,1995,40,35,3088,34.3,0,4,4,0,0,0,11,1,0.00,0.12,0.12,0.00,0.12,Matches,6d4dbf54
+160,Cristián Cañozales,co COL,FW,Millonarios,25,1999,7,0,145,1.6,1,0,1,1,0,0,1,0,0.62,0.00,0.62,0.62,0.62,Matches,ea11b08c
+161,Carlos Cantillo,co COL,MFDF,Junior,21,2003,4,2,197,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6ba69171
+162,Fabián Cantillo,co COL,MF,U. Magdalena,27,1997,30,30,2565,28.5,3,3,6,3,0,0,8,2,0.11,0.11,0.21,0.11,0.21,Matches,0b21eb93
+163,Juan Cantillo,co COL,MFFW,Deportivo Cali,22,2003,10,3,463,5.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,42496587
+164,Nelson Cantillo,co COL,DF,Llaneros,24,2001,1,1,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a86e634e
+165,Brayan Carabalí,co COL,DF,Deportivo Pasto,25,1999,10,7,723,8.0,1,0,1,1,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,a31bc204
+166,Sherman Cárdenas,co COL,MFFW,Bucaramanga,35,1989,10,5,344,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9ff0aa5e
+167,Edwin Cardona,co COL,MF,Atlético Nacional,32,1992,41,30,2500,27.8,13,12,25,7,6,6,10,1,0.47,0.43,0.90,0.25,0.68,Matches,e82b25f5
+168,Jorge Cardona,co COL,DF,Once Caldas,25,1999,33,27,2289,25.4,2,0,2,2,0,0,10,1,0.08,0.00,0.08,0.08,0.08,Matches,be22bb53
+169,Jean Carlos Blanco,co COL,FW,Bucaramanga,32,1992,8,2,333,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5021438a
+170,José Carlos Muñoz,co COL,MFFW,Alianza Petrolera,31,1994,24,5,984,10.9,0,2,2,0,0,0,4,0,0.00,0.18,0.18,0.00,0.18,Matches,28e858c3
+171,Juan Carlos Pereira,co COL,MF,Millonarios,31,1993,17,11,1107,12.3,2,0,2,2,0,0,4,2,0.16,0.00,0.16,0.16,0.16,Matches,7b4c7966
+172,Rafael Carrascal,co COL,MF,América Cali,32,1992,42,39,3551,39.5,3,2,5,1,2,3,12,1,0.08,0.05,0.13,0.03,0.08,Matches,5c653950
+173,Juan Carvajal,co COL,FW,Millonarios,21,2003,2,1,95,1.1,1,0,1,1,0,0,0,0,0.95,0.00,0.95,0.95,0.95,Matches,ab5939db
+174,Frank Castañeda,co COL,MF,Bucaramanga,30,1994,15,8,702,7.8,5,2,7,4,1,1,1,0,0.64,0.26,0.90,0.51,0.77,Matches,0a396655
+175,Juan Castaño,co COL,DF,Once Caldas,26,1998,25,15,1519,16.9,1,0,1,1,0,0,7,1,0.06,0.00,0.06,0.06,0.06,Matches,e6c60bab
+176,Mauricio Castaño,co COL,DF,Deportivo Pasto,31,1993,30,26,2352,26.1,1,3,4,1,0,0,8,0,0.04,0.11,0.15,0.04,0.15,Matches,d90e36d6
+177,Juan Castilla,co COL,MF,Deportivo Pasto,20,2004,17,10,922,10.2,1,1,2,1,0,0,3,0,0.10,0.10,0.20,0.10,0.20,Matches,bd538c54
+178,Juan Castilla,co COL,MF,La Equidad,20,2004,17,11,909,10.1,1,0,1,1,0,0,1,1,0.10,0.00,0.10,0.10,0.10,Matches,bd538c54
+179,Diego Castillo,co COL,FWMF,Deportivo Pasto,25,1999,24,12,1115,12.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9b7ad0d4
+180,Fabián Castillo,co COL,MFFW,Deportivo Cali,32,1992,22,12,970,10.8,0,1,1,0,0,0,1,2,0.00,0.09,0.09,0.00,0.09,Matches,99f5d6aa
+181,Harlen Castillo,co COL,GK,Atlético Nacional,31,1993,14,13,1189,13.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d7a3b09f
+182,Jair Castillo,co COL,MF,Alianza Petrolera,27,1997,34,29,2239,24.9,0,2,2,0,0,0,8,1,0.00,0.08,0.08,0.00,0.08,Matches,cc1b1f77
+183,Juan Castillo,co COL,GK,Fortaleza FC,22,2003,9,9,810,9.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,73f00ee2
+184,Mateo Castillo,co COL,DF,América Cali,21,2003,30,25,2244,24.9,0,2,2,0,0,0,5,1,0.00,0.08,0.08,0.00,0.08,Matches,40c4ad77
+185,Román Castillo,hn HON,FW,Pereira,33,1991,10,5,418,4.6,1,1,2,1,0,0,1,0,0.22,0.22,0.43,0.22,0.43,Matches,fe471d66
+186,Bryan Castrillón,co COL,MFFW,Junior,25,1999,47,29,2333,25.9,10,7,17,9,1,1,4,1,0.39,0.27,0.66,0.35,0.62,Matches,c7d333ec
+187,Alex Castro,co COL,MF,Millonarios,30,1994,13,12,915,10.2,1,1,2,1,0,0,3,1,0.10,0.10,0.20,0.10,0.20,Matches,36b1c79f
+188,Alex Castro,co COL,MF,Deportes Tolima,30,1994,20,16,1417,15.7,2,4,6,2,0,0,4,0,0.13,0.25,0.38,0.13,0.38,Matches,36b1c79f
+189,Beckham Castro,co COL,FWMF,La Equidad,21,2003,16,12,1003,11.1,2,1,3,2,0,1,2,0,0.18,0.09,0.27,0.18,0.27,Matches,d1ca3243
+190,Beckham Castro,co COL,MF,Millonarios,21,2003,20,18,1323,14.7,7,2,9,7,0,0,3,0,0.48,0.14,0.61,0.48,0.61,Matches,d1ca3243
+191,Deivid Castro,co COL,MF,La Equidad,18,2006,4,1,111,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,834e3ed3
+192,Joan Castro,co COL,DF,Atlético Nacional,28,1997,28,17,1674,18.6,3,1,4,3,0,0,5,0,0.16,0.05,0.22,0.16,0.22,Matches,c9f62861
+193,Leonardo Castro,co COL,FW,Millonarios,32,1992,20,17,1362,15.1,9,0,9,5,4,5,5,1,0.59,0.00,0.59,0.33,0.33,Matches,b53310c1
+194,Luiyi Castro,co COL,DF,Llaneros,18,2006,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4ab64171
+195,Daniel Cataño,co COL,MFFW,Millonarios,33,1992,20,12,1058,11.8,1,2,3,1,0,0,5,0,0.09,0.17,0.26,0.09,0.26,Matches,3c061eea
+196,Juan Cataño,co COL,MF,Envigado FC,16,2008,2,1,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5b713c64
+197,José Cavadía,co COL,MF,América Cali,18,2006,24,14,1197,13.3,1,2,3,1,0,0,7,2,0.08,0.15,0.23,0.08,0.23,Matches,6d8e10c7
+198,Guillermo Celis,co COL,MF,Junior,31,1993,23,20,1574,17.5,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,fae8f607
+199,Guillermo Celis,co COL,MF,Águilas Doradas,31,1993,15,15,1296,14.4,1,0,1,1,0,0,5,0,0.07,0.00,0.07,0.07,0.07,Matches,fae8f607
+200,Sebastián Chacón,,FW,Envigado FC,,,3,1,58,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,04dc4caa
+201,Alejandro Chalarca,co COL,,Envigado FC,19,2005,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5c45ff91
+202,Fabián Chalare,co COL,FW,Águilas Doradas,20,2004,9,0,223,2.5,1,0,1,1,0,0,3,0,0.40,0.00,0.40,0.40,0.40,Matches,138b8723
+203,Yimmi Chará,co COL,MF,Junior,33,1991,53,49,3938,43.8,3,8,11,3,0,0,2,0,0.07,0.18,0.25,0.07,0.25,Matches,9df9baab
+204,Felix Charrupí,co COL,MFDF,Bucaramanga,23,2001,12,4,406,4.5,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,102a620f
+205,Felix Charrupí,co COL,MFFW,Millonarios,23,2001,7,2,179,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,102a620f
+206,Gustavo Charrupí,co COL,MF,Deportivo Pasto,20,2004,14,6,657,7.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,862f88a7
+207,Gustavo Charrupí,co COL,MF,Bucaramanga,20,2004,18,18,1385,15.4,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,862f88a7
+208,Eder Chaux,co COL,GK,Ind. Medellín,33,1991,16,15,1414,15.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,d38e02cf
+209,Fabian Chaverra,co COL,MF,La Equidad,21,2003,25,8,972,10.8,1,1,2,1,0,0,5,0,0.09,0.09,0.19,0.09,0.19,Matches,00d62924
+210,Francisco Chaverra,co COL,MFDF,Ind. Medellín,24,2000,46,38,3245,36.1,8,5,13,6,2,2,12,1,0.22,0.14,0.36,0.17,0.31,Matches,3fff484d
+211,Leyser Chaverra,co COL,DF,Ind. Medellín,27,1997,40,35,3257,36.2,4,1,5,0,4,4,11,0,0.11,0.03,0.14,0.00,0.03,Matches,5962ab0b
+212,Diego Chávez,ar ARG,MF,Bucaramanga,27,1997,22,8,860,9.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f5b1f55f
+213,Brandon Chury,co COL,MFFW,Llaneros,19,2005,11,5,378,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6e407ed9
+214,Sebastián Colón Guerra,co COL,MF,Boyacá Chicó,26,1998,16,0,327,3.6,0,1,1,0,0,0,4,0,0.00,0.28,0.28,0.00,0.28,Matches,5482df9c
+215,Santiago Colonia,co COL,MF,Deportivo Cali,17,2007,2,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3ee889fd
+216,Andrés Colorado,co COL,MF,Deportivo Cali,26,1998,12,11,834,9.3,1,0,1,1,0,0,5,0,0.11,0.00,0.11,0.11,0.11,Matches,f3afff11
+217,Andrés Colorado,co COL,MF,Junior,26,1998,3,1,146,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f3afff11
+218,Jean Colorado,co COL,MF,La Equidad,24,2000,12,9,814,9.0,0,0,0,0,0,0,4,2,0.00,0.00,0.00,0.00,0.00,Matches,e1fe0643
+219,Jean Colorado,co COL,MF,Deportivo Cali,24,2000,15,12,1006,11.2,1,0,1,1,0,0,7,0,0.09,0.00,0.09,0.09,0.09,Matches,e1fe0643
+220,Royscer Colpa,co COL,MFDF,U. Magdalena,29,1995,13,8,668,7.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,97114c5f
+221,Royscer Colpa,co COL,DF,Alianza Petrolera,29,1995,7,1,219,2.4,1,0,1,1,0,0,2,1,0.41,0.00,0.41,0.41,0.41,Matches,97114c5f
+222,Yimmi Congo,co COL,MF,U. Magdalena,26,1998,13,4,402,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c4518184
+223,Joel Contreras,co COL,MF,U. Magdalena,25,1999,12,5,441,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5051c723
+224,Joel Contreras,co COL,MF,Once Caldas,25,1999,17,6,564,6.3,1,0,1,1,0,0,5,0,0.16,0.00,0.16,0.16,0.16,Matches,5051c723
+225,Deyson Copete,co COL,MF,La Equidad,23,2001,17,7,590,6.6,0,0,0,0,0,0,6,2,0.00,0.00,0.00,0.00,0.00,Matches,754440fa
+226,Jhon Córdoba,co COL,MFFW,Millonarios,24,2000,20,7,783,8.7,2,1,3,2,0,0,0,0,0.23,0.11,0.34,0.23,0.34,Matches,fdac9284
+227,Santiago Córdoba,co COL,FW,Fortaleza FC,27,1997,25,12,1110,12.3,2,0,2,1,1,1,1,0,0.16,0.00,0.16,0.08,0.08,Matches,d8554e98
+228,Andrés Correa,co COL,DFMF,La Equidad,31,1994,18,16,1458,16.2,0,1,1,0,0,0,3,0,0.00,0.06,0.06,0.00,0.06,Matches,e72011c4
+229,Andrés Correa,co COL,DF,Deportivo Cali,31,1994,16,15,1302,14.5,1,0,1,1,0,0,2,0,0.07,0.00,0.07,0.07,0.07,Matches,e72011c4
+230,Bryan Correa,co COL,DF,América Cali,20,2004,4,1,167,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fe00b4f9
+231,Carlos Cortes,co COL,FW,Llaneros,23,2001,11,10,802,8.9,2,1,3,2,0,0,1,0,0.22,0.11,0.34,0.22,0.34,Matches,4dd5d3e5
+232,Kevin Cortés,co COL,MFDF,Boyacá Chicó,21,2003,17,14,1019,11.3,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,e4ffe9c5
+233,Guzmán Corujo,uy URU,DF,Deportivo Cali,28,1996,20,13,1133,12.6,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,5c6051ad
+234,Carlos Cruz,mx MEX,MF,Pereira,21,2004,2,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0aafc7bb
+235,Wilmar Cruz,co COL,FWMF,La Equidad,31,1993,17,10,833,9.3,0,1,1,0,0,0,4,0,0.00,0.11,0.11,0.00,0.11,Matches,7adf2033
+236,Santiago Cubides,co COL,FW,Once Caldas,24,2000,2,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ba807576
+237,Klieton Cuellar,co COL,FW,Deportivo Cali,20,2004,2,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c31f141c
+238,Brayan Cuero,co COL,MF,Millonarios,20,2004,8,1,238,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2845448d
+239,Cuero Cuero,co COL,DFMF,Fortaleza FC,20,2004,39,13,1545,17.2,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches,132456fb
+240,Gendry Cuervo,co COL,DFMF,Envigado FC,23,2001,31,22,1992,22.1,1,1,2,1,0,0,13,1,0.05,0.05,0.09,0.05,0.09,Matches,9c21e2ea
+241,Kevin Cuesta,co COL,DF,Santa Fe,24,2000,5,5,405,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,13137b39
+242,Kevin Cuesta,co COL,DF,Once Caldas,24,2000,13,12,1009,11.2,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches,13137b39
+243,William Cuesta,co COL,GK,Deportes Tolima,31,1993,5,5,450,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,359e02ea
+244,Juan David Cuesta,co COL,DF,Once Caldas,27,1997,37,37,3256,36.2,0,3,3,0,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches,915e4322
+245,Álvaro David Montero,co COL,GK,Millonarios,29,1995,23,23,2070,23.0,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches,2e3dbaa5
+246,Juan David Obando,co COL,MF,Atlético Nacional,18,2006,3,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,87ffd1e4
+247,Juan David Ríos,co COL,MF,Pereira,33,1991,30,30,2487,27.6,1,1,2,1,0,0,22,1,0.04,0.04,0.07,0.04,0.07,Matches,5cad3c91
+248,Didier Dawson,pa PAN,MF,Envigado FC,19,2005,24,8,755,8.4,1,1,2,1,0,0,3,1,0.12,0.12,0.24,0.12,0.24,Matches,7dc5f9da
+249,Carlos De Las Salas,co COL,DF,Bucaramanga,26,1998,23,22,1895,21.1,0,1,1,0,0,0,6,1,0.00,0.05,0.05,0.00,0.05,Matches,7d4bdf0f
+250,Ayron del Valle,co COL,FW,Alianza Petrolera,36,1989,12,6,555,6.2,1,0,1,1,0,0,0,0,0.16,0.00,0.16,0.16,0.16,Matches,0cedda69
+251,Ayron del Valle,co COL,FW,La Equidad,36,1989,14,6,592,6.6,2,0,2,2,0,0,2,0,0.30,0.00,0.30,0.30,0.30,Matches,0cedda69
+252,Emiliano Denis,uy URU,GK,Boyacá Chicó,33,1991,31,31,2789,31.0,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,9af9d021
+253,Jaime Díaz,co COL,DF,Pereira,24,2000,3,0,30,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f84cf786
+254,Jesus Diaz,co COL,FW,Junior,20,2004,4,0,63,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1137e64a
+255,Juan Díaz,co COL,MF,Once Caldas,23,2001,19,4,641,7.1,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,36839110
+256,Juan Díaz,co COL,FW,Fortaleza FC,25,2000,4,1,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,698958f4
+257,Kleber Díaz,co COL,FW,U. Magdalena,21,2004,9,0,129,1.4,0,1,1,0,0,0,1,0,0.00,0.70,0.70,0.00,0.70,Matches,6de2c9dd
+258,Luis Díaz,co COL,MFFW,Envigado FC,20,2004,36,32,2916,32.4,3,3,6,3,0,0,5,0,0.09,0.09,0.19,0.09,0.19,Matches,81932e2e
+259,Michell Diaz,co COL,FW,Deportes Tolima,20,2004,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ee92a6d9
+260,Yesid Díaz,co COL,DF,Fortaleza FC,27,1997,36,35,3087,34.3,1,0,1,1,0,0,7,0,0.03,0.00,0.03,0.03,0.03,Matches,8df202f1
+261,Diego Dieppa,,FW,Boyacá Chicó,,,5,0,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,26de6596
+262,Hugo Dorrego,uy URU,MF,Once Caldas,31,1993,9,5,484,5.4,0,1,1,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,079d4bba
+263,Bayron Duarte,co COL,DF,Bucaramanga,21,2003,17,16,1190,13.2,0,2,2,0,0,0,5,1,0.00,0.15,0.15,0.00,0.15,Matches,c82190b5
+264,John Edison García,co COL,DF,Alianza Petrolera,35,1989,30,27,2531,28.1,1,1,2,1,0,0,4,1,0.04,0.04,0.07,0.04,0.07,Matches,651f1da9
+265,José Enamorado,co COL,MFFW,Junior,26,1999,47,30,2663,29.6,9,7,16,9,0,0,11,1,0.30,0.24,0.54,0.30,0.54,Matches,5a1ce0cb
+266,Jorge Enrique Arias,co COL,DF,Millonarios,32,1992,36,34,3118,34.6,1,1,2,1,0,0,16,1,0.03,0.03,0.06,0.03,0.06,Matches,cc3b4444
+267,Luis Erney Vasquez,co COL,GK,Bucaramanga,28,1996,2,2,180,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,c62260ab
+268,Jhojan Escobar,co COL,FWDF,Águilas Doradas,25,2000,14,5,468,5.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ab9b2e29
+269,Jhojan Escobar,co COL,DF,Llaneros,25,2000,16,16,1394,15.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,ab9b2e29
+270,Josen Escobar,co COL,MF,América Cali,20,2004,22,20,1762,19.6,2,0,2,2,0,0,9,0,0.10,0.00,0.10,0.10,0.10,Matches,5768f04a
+271,Rubén Escobar,py PAR,GK,Envigado FC,33,1991,17,17,1530,17.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,e5034d15
+272,Luis Escorcia,co COL,DF,Ind. Medellín,21,2004,8,5,491,5.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,08667826
+273,Luis Escorcia,co COL,DF,Fortaleza FC,21,2004,22,13,1240,13.8,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,08667826
+274,Rubio España,co COL,MFFW,Envigado FC,21,2004,13,5,528,5.9,1,0,1,0,1,1,1,0,0.17,0.00,0.17,0.00,0.00,Matches,b9814cda
+275,Carlos Esparragoza,co COL,MF,Junior,25,1999,22,12,1005,11.2,0,1,1,0,0,0,4,0,0.00,0.09,0.09,0.00,0.09,Matches,9dec573b
+276,Freddy Espinal,co COL,MFFW,Llaneros,27,1997,19,11,1019,11.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,ab43fc7d
+277,Freddy Espinal,co COL,MFFW,Deportivo Pasto,27,1997,12,10,797,8.9,1,2,3,1,0,0,8,0,0.11,0.23,0.34,0.11,0.34,Matches,ab43fc7d
+278,Adrián Estacio,co COL,MF,Pereira,26,1998,13,6,517,5.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0677b1d9
+279,Johan Esteban Beltrán,co COL,MF,Once Caldas,25,1999,29,8,1071,11.9,0,3,3,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,de144a9b
+280,Andrey Estupiñán,co COL,MFFW,Deportivo Cali,30,1994,36,33,2510,27.9,9,1,10,5,4,5,13,0,0.32,0.04,0.36,0.18,0.22,Matches,53e46b86
+281,Davinson Estupiñán,co COL,FW,Ind. Medellín,18,2006,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f08f78f5
+282,Fabry,co COL,MF,Bucaramanga,32,1992,21,21,1844,20.5,2,0,2,2,0,0,3,1,0.10,0.00,0.10,0.10,0.10,Matches,893441d1
+283,Radamel Falcao,co COL,FW,Millonarios,38,1986,12,8,738,8.2,6,0,6,5,1,1,3,0,0.73,0.00,0.73,0.61,0.61,Matches,66116290
+284,Wuilker Faríñez,ve VEN,GK,Águilas Doradas,26,1998,30,30,2700,30.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2c127b6f
+285,Juan Felipe Aguirre,co COL,DF,Atlético Nacional,28,1996,8,6,555,6.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,72898527
+286,Andrés Felipe Amaya,co COL,MFFW,Fortaleza FC,23,2001,19,5,626,7.0,1,0,1,1,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,2f29cfe8
+287,Andrés Felipe Román,co COL,DF,Atlético Nacional,29,1995,33,31,2581,28.7,4,1,5,4,0,0,3,0,0.14,0.03,0.17,0.14,0.17,Matches,8986fdd8
+288,Omar Fernández Frasica,co COL,FWMF,Santa Fe,31,1993,43,38,3364,37.4,4,9,13,4,0,0,5,0,0.11,0.24,0.35,0.11,0.35,Matches,548d8753
+289,Wiston Fernández,uy URU,MFFW,Alianza Petrolera,27,1998,32,29,2237,24.9,3,1,4,3,0,0,8,1,0.12,0.04,0.16,0.12,0.16,Matches,e59b2613
+290,David Fernando Lemos,co COL,FWMF,Águilas Doradas,29,1995,3,0,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,09af36f3
+291,Cristopher Fiermarin,uy URU,GK,Deportes Tolima,27,1998,41,41,3563,39.6,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,9a910a78
+292,Jesús Figueroa,co COL,DF,Alianza Petrolera,28,1996,18,6,825,9.2,1,0,1,1,0,0,0,0,0.11,0.00,0.11,0.11,0.11,Matches,85718be8
+293,Leonardo Flores Soto,ve VEN,MF,Bucaramanga,29,1995,38,19,1865,20.7,4,3,7,4,0,0,9,3,0.19,0.14,0.34,0.19,0.34,Matches,09e208ba
+294,Kelvin Flórez,co COL,MF,Fortaleza FC,20,2004,40,29,2271,25.2,3,5,8,3,0,0,6,1,0.12,0.20,0.32,0.12,0.32,Matches,b86c59bc
+295,Juan Franco,co COL,DF,Deportivo Pasto,23,2002,5,5,421,4.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0ec402ca
+296,Pedro Franco,co COL,DF,Alianza Petrolera,33,1991,33,33,2946,32.7,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,78bf31cf
+297,John Fredy Salazar,co COL,MF,Junior,29,1995,12,5,515,5.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,457e8ce5
+298,John Fredy Salazar,co COL,MFFW,Águilas Doradas,29,1995,15,15,1221,13.6,0,2,2,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches,457e8ce5
+299,Jeinner Fuentes,co COL,FW,Deportes Tolima,19,2005,10,2,223,2.5,1,0,1,1,0,0,0,0,0.40,0.00,0.40,0.40,0.40,Matches,944a900a
+300,Francisco Fydriszewski,ar ARG,FW,Ind. Medellín,31,1993,43,34,2905,32.3,15,4,19,12,3,3,13,0,0.46,0.12,0.59,0.37,0.50,Matches,bb7a1a4a
+301,Jean Galindo,co COL,MF,Deportivo Cali,18,2006,6,1,155,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4ac47e7d
+302,Jhon Gamboa,co COL,DF,Envigado FC,20,2004,31,30,2707,30.1,0,1,1,0,0,0,12,0,0.00,0.03,0.03,0.00,0.03,Matches,b1612ec3
+303,Bayron Garces,co COL,FW,Envigado FC,31,1993,37,26,2279,25.3,7,2,9,6,1,3,4,1,0.28,0.08,0.36,0.24,0.32,Matches,03c94eec
+304,Yojan Garcés,co COL,FW,América Cali,18,2006,16,4,495,5.5,2,1,3,2,0,0,4,0,0.36,0.18,0.55,0.36,0.55,Matches,164b4bae
+305,Alejandro García,co COL,MF,Once Caldas,23,2001,28,23,1726,19.2,1,1,2,1,0,0,2,0,0.05,0.05,0.10,0.05,0.10,Matches,a0f0e472
+306,Emmanuel Garcia,,,Boyacá Chicó,,,5,0,74,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e8600b50
+307,Giancarlo García,,,Pereira,,,4,0,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2ca6bfc1
+308,Jordan García,co COL,GK,Fortaleza FC,19,2005,26,26,2340,26.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,bd6ba56c
+309,José García,co COL,DF,Bucaramanga,21,2003,14,8,822,9.1,0,1,1,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches,ea36e829
+310,Juan García,co COL,MF,Once Caldas,27,1997,14,5,375,4.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,b1a673e2
+311,Marlon García,co COL,DF,Llaneros,21,2003,1,1,68,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,e36a6f20
+312,Mateo García,co COL,MF,Once Caldas,26,1998,33,33,2599,28.9,1,1,2,1,0,0,12,0,0.03,0.03,0.07,0.03,0.07,Matches,492f7668
+313,Mender García,co COL,MFFW,Ind. Medellín,26,1998,36,21,1927,21.4,2,2,4,2,0,0,3,0,0.09,0.09,0.19,0.09,0.19,Matches,2375dd75
+314,Simon Garcia,co COL,DF,Atlético Nacional,20,2005,18,16,1412,15.7,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,b027ebdd
+315,Tomas García,co COL,MF,Once Caldas,18,2006,3,1,170,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,43dbdd7c
+316,Yeider García,,MF,La Equidad,,,3,2,146,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,4e24a7fe
+317,Faber Gil,co COL,MF,Bucaramanga,29,1995,22,14,1160,12.9,3,1,4,3,0,0,4,0,0.23,0.08,0.31,0.23,0.31,Matches,ea868537
+318,Faber Gil,co COL,MF,Atlético Nacional,29,1995,13,5,461,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ea868537
+319,Mayer Gil,sv SLV,MFFW,Alianza Petrolera,21,2003,24,11,1040,11.6,4,0,4,4,0,0,1,0,0.35,0.00,0.35,0.35,0.35,Matches,a42b998f
+320,Nicolás Gil,co COL,DF,Deportivo Pasto,27,1997,12,12,1079,12.0,1,0,1,1,0,0,5,1,0.08,0.00,0.08,0.08,0.08,Matches,48d7077c
+321,Santiago Giordana,ar ARG,FW,Millonarios,29,1995,33,11,1204,13.4,4,3,7,4,0,1,5,1,0.30,0.22,0.52,0.30,0.52,Matches,66294099
+322,Juan Giraldo,co COL,MF,U. Magdalena,27,1997,25,9,821,9.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,22b6aa0e
+323,Nicolás Giraldo,co COL,DF,Millonarios,31,1993,5,4,290,3.2,0,1,1,0,0,0,0,0,0.00,0.31,0.31,0.00,0.31,Matches,32484ad4
+324,Yeiler Goez,co COL,MF,Llaneros,25,1999,14,7,624,6.9,1,0,1,0,1,1,7,1,0.14,0.00,0.14,0.00,0.00,Matches,53b8853a
+325,Guillermo Gómez,co COL,GK,U. Magdalena,28,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1596e74f
+326,Luis Gómez,co COL,MF,Once Caldas,25,1999,17,7,733,8.1,0,4,4,0,0,0,1,0,0.00,0.49,0.49,0.00,0.49,Matches,e41c025a
+327,Luis Gómez,co COL,FWMF,América Cali,25,1999,18,9,755,8.4,2,0,2,2,0,0,3,0,0.24,0.00,0.24,0.24,0.24,Matches,e41c025a
+328,Luis Gómez,co COL,MF,Envigado FC,20,2004,11,1,227,2.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2c3f6ad2
+329,Michael Gómez,co COL,FW,Boyacá Chicó,27,1997,16,1,472,5.2,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches,dde92e3a
+330,Santiago Gómez,co COL,DF,La Equidad,26,1998,7,2,204,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e1b38c72
+331,Yimy Gómez,co COL,GK,La Equidad,25,1999,12,12,1080,12.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,4a3541d5
+332,Yulián Gómez,co COL,DF,La Equidad,27,1997,20,20,1800,20.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,f6c48b15
+333,Yulián Gómez,co COL,DF,Deportivo Cali,27,1997,20,19,1713,19.0,1,0,1,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches,f6c48b15
+334,Franco González,uy URU,MFFW,La Equidad,20,2004,8,5,372,4.1,0,2,2,0,0,0,0,0,0.00,0.48,0.48,0.00,0.48,Matches,af704640
+335,Jersson González,co COL,MF,Deportes Tolima,23,2001,42,31,2579,28.7,7,2,9,7,0,0,6,0,0.24,0.07,0.31,0.24,0.31,Matches,681989c2
+336,Kener González,co COL,MF,América Cali,19,2005,4,1,162,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,91ce75c8
+337,Luis González,ve VEN,MF,Junior,34,1990,14,5,470,5.2,2,1,3,0,2,2,0,0,0.38,0.19,0.57,0.00,0.19,Matches,1d8885d7
+338,Mauricio Gonzalez,,MF,Deportes Tolima,,,26,23,1738,19.3,5,3,8,5,0,0,5,0,0.26,0.16,0.41,0.26,0.41,Matches,ab64aa8c
+339,Yony González,co COL,MFFW,Águilas Doradas,30,1994,32,30,2473,27.5,10,2,12,7,3,4,1,0,0.36,0.07,0.44,0.25,0.33,Matches,c6c88c7d
+340,Yeison Gordillo,co COL,MF,Deportivo Cali,32,1992,25,18,1656,18.4,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,8f2ed127
+341,Hervin Goyes,co COL,DF,Deportivo Pasto,18,2006,1,0,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,48332b72
+342,Cristian Graciano,co COL,DFMF,Deportivo Cali,21,2003,23,5,739,8.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,42e1a556
+343,Joel Graterol,ve VEN,GK,América Cali,27,1997,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,002435ee
+344,David Guerrero,co COL,MF,Deportivo Pasto,28,1996,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ae2e9552
+345,Jhomier Guerrero,co COL,DF,Junior,23,2001,49,43,3718,41.3,2,2,4,2,0,0,9,0,0.05,0.05,0.10,0.05,0.10,Matches,9c520755
+346,Aldair Gutiérrez,co COL,DF,Bucaramanga,26,1998,30,25,2300,25.6,0,2,2,0,0,0,11,1,0.00,0.08,0.08,0.00,0.08,Matches,05200fe1
+347,Teófilo Gutiérrez,co COL,MFFW,Junior,39,1985,35,6,1144,12.7,1,3,4,1,0,0,5,0,0.08,0.24,0.31,0.08,0.31,Matches,165afe13
+348,Cristian Guzmán,co COL,DF,Deportes Tolima,18,2006,2,1,68,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,921284ba
+349,Sebastián Guzmán,co COL,MF,Deportes Tolima,27,1997,13,7,676,7.5,0,0,0,0,0,0,0,2,0.00,0.00,0.00,0.00,0.00,Matches,352ccb4b
+350,Sebastián Guzmán,co COL,MF,Atlético Nacional,27,1997,10,7,538,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,352ccb4b
+351,Cesar Haydar,co COL,DF,Atlético Nacional,23,2001,9,5,542,6.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,bc115c92
+352,Carlos Henao,co COL,DF,Bucaramanga,36,1988,35,30,2761,30.7,1,1,2,1,0,0,10,1,0.03,0.03,0.07,0.03,0.07,Matches,bf3758d2
+353,Jhon Henry Sánchez,co COL,MF,Boyacá Chicó,29,1995,10,1,340,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f20bff1b
+354,Diego Hernández,co COL,DF,Águilas Doradas,24,2000,37,36,3186,35.4,1,0,1,1,0,0,9,0,0.03,0.00,0.03,0.03,0.03,Matches,b80b6c60
+355,Dominic Hernández,,FW,América Cali,,,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,46d46c63
+356,Jhoan Hernández,co COL,DF,Millonarios,18,2006,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6697cafb
+357,Julián Hernández,,DF,La Equidad,,,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,da86b35d
+358,Junior Hernández,co COL,DF,Deportes Tolima,25,1999,32,22,2022,22.5,1,2,3,1,0,0,5,0,0.04,0.09,0.13,0.04,0.13,Matches,49231a0d
+359,Nicolás Hernández,co COL,DF,América Cali,27,1998,4,3,279,3.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,86046c18
+360,Vladimir Hernández,co COL,MFFW,Boyacá Chicó,35,1989,23,14,1291,14.3,0,1,1,0,0,1,1,0,0.00,0.07,0.07,0.00,0.07,Matches,c9a41f9c
+361,Edwin Herrera,co COL,DF,Junior,26,1998,38,28,2665,29.6,1,1,2,0,1,2,9,0,0.03,0.03,0.07,0.00,0.03,Matches,3c00b4c7
+362,Jonathan Herrera,co COL,DFMF,Boyacá Chicó,28,1996,12,9,751,8.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,fe914ab5
+363,Fredy Hinestroza,co COL,DF,Bucaramanga,34,1990,23,20,1784,19.8,0,1,1,0,0,0,9,0,0.00,0.05,0.05,0.00,0.05,Matches,ac330d8c
+364,Johan Hinestroza,co COL,MF,Envigado FC,22,2002,21,15,1234,13.7,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,b99fd6c8
+365,Marino Hinestroza,co COL,MF,Atlético Nacional,22,2002,40,36,3040,33.8,6,6,12,6,0,0,2,0,0.18,0.18,0.36,0.18,0.36,Matches,f397ba12
+366,Roberto Hinojosa,co COL,MF,Llaneros,25,1999,11,5,531,5.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,4a203a6d
+367,Roberto Hinojosa,co COL,MF,U. Magdalena,25,1999,15,12,856,9.5,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,4a203a6d
+368,Rodrigo Holgado,my MAS,FW,América Cali,29,1995,28,20,1637,18.2,7,2,9,7,0,0,3,0,0.38,0.11,0.49,0.38,0.49,Matches,b25e597e
+369,Juan Holguín,co COL,DF,Envigado FC,20,2005,17,14,1252,13.9,0,2,2,0,0,0,5,0,0.00,0.14,0.14,0.00,0.14,Matches,25e20762
+370,Avilés Hurtado,co COL,FWMF,Deportivo Cali,37,1987,17,17,1442,16.0,6,1,7,2,4,4,1,0,0.37,0.06,0.44,0.12,0.19,Matches,4641e9a2
+371,Jeirye Hurtado,co COL,MF,Deportivo Pasto,20,2004,5,0,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,6ac9cef8
+372,William Hurtado,co COL,MFFW,Envigado FC,20,2004,19,10,1002,11.1,1,3,4,1,0,0,6,1,0.09,0.27,0.36,0.09,0.36,Matches,91115004
+373,Yhormar Hurtado,co COL,DF,Deportes Tolima,28,1996,47,43,3834,42.6,2,4,6,2,0,0,11,0,0.05,0.09,0.14,0.05,0.14,Matches,43af66fe
+374,Andrés Ibargüen,co COL,MFFW,Bucaramanga,32,1992,3,2,168,1.9,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,7e88757f
+375,Andrés Ibargüen,co COL,MF,Once Caldas,32,1992,8,3,368,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7e88757f
+376,Salvador Ichazo,uy URU,GK,Pereira,33,1992,36,36,3240,36.0,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,514f0896
+377,Cristian Iguarán,co COL,MFFW,U. Magdalena,19,2005,11,9,652,7.2,3,2,5,3,0,0,1,0,0.41,0.28,0.69,0.41,0.69,Matches,2fedb2f0
+378,Jorge Iván Soto,co COL,GK,América Cali,31,1993,37,37,3330,37.0,0,1,1,0,0,0,5,0,0.00,0.03,0.03,0.00,0.03,Matches,4b3208f0
+379,Felipe Jaramillo,co COL,MF,Deportivo Pasto,28,1996,32,27,2333,25.9,0,1,1,0,0,0,14,1,0.00,0.04,0.04,0.00,0.04,Matches,0023571b
+380,Junior Jiménez,co COL,MF,Alianza Petrolera,24,2000,4,0,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,65d1576b
+381,Santiago Jiménez,co COL,DF,Deportivo Pasto,26,1998,13,11,1015,11.3,2,2,4,2,0,0,6,0,0.18,0.18,0.35,0.18,0.35,Matches,637be30b
+382,Santiago Jiménez,co COL,DF,Bucaramanga,26,1998,8,4,414,4.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,637be30b
+383,Jhonny Jordán,co COL,MFDF,Boyacá Chicó,23,2001,13,10,822,9.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8325187d
+384,Carlos José Sierra,co COL,MF,Llaneros,34,1990,30,19,1838,20.4,3,0,3,3,0,0,5,0,0.15,0.00,0.15,0.15,0.15,Matches,d2133232
+385,Ronaldo Julio,co COL,DFMF,La Equidad,20,2005,9,4,406,4.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,162bba4b
+386,Eric Krame,uy URU,MFFW,U. Magdalena,25,1999,6,5,283,3.1,1,0,1,1,0,0,0,0,0.32,0.00,0.32,0.32,0.32,Matches,41ae8f8d
+387,Luis Landázuri,co COL,MFDF,Atlético Nacional,19,2005,4,2,153,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,ff08e233
+388,Nicolás Lara,co COL,DF,Águilas Doradas,21,2003,18,14,1184,13.2,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,fcb3c7c9
+389,Jhon Largacha,co COL,MF,Pereira,24,2001,26,18,1593,17.7,2,2,4,2,0,0,7,1,0.11,0.11,0.23,0.11,0.23,Matches,001b4019
+390,Bruno Larregui,uy URU,FW,Deportes Tolima,23,2001,6,1,151,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,fc2afaf5
+391,Jhildrey Lasso,co COL,DF,Llaneros,22,2002,14,13,1193,13.3,0,1,1,0,0,0,1,0,0.00,0.08,0.08,0.00,0.08,Matches,d5a70688
+392,Manuel Lasso,co COL,DF,Fortaleza FC,19,2005,3,1,119,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c5604e31
+393,Edgar Lastre,ec ECU,MF,U. Magdalena,25,1999,9,1,156,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,8a12c4be
+394,Gonzalo Lencina,ar ARG,FW,Deportes Tolima,27,1997,42,31,2663,29.6,12,3,15,10,2,4,4,0,0.41,0.10,0.51,0.34,0.44,Matches,e9263403
+395,Brayan Léon,co COL,FWMF,Ind. Medellín,24,2000,40,34,2947,32.7,13,8,21,13,0,1,22,2,0.40,0.24,0.64,0.40,0.64,Matches,9d68842d
+396,Jhon Lerma,co COL,DFMF,U. Magdalena,22,2003,16,12,1103,12.3,0,1,1,0,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches,9e3f8c40
+397,Jhon Lerma,co COL,DF,Junior,22,2003,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9e3f8c40
+398,Franco Leys,ar ARG,MF,América Cali,31,1993,11,6,480,5.3,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,6c149b4d
+399,Andrés Llinás,co COL,DF,Millonarios,27,1997,24,24,2143,23.8,1,0,1,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches,ce3041e5
+400,Juan Loaiza,co COL,GK,Llaneros,22,2002,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4d10fe76
+401,Halam Loboa,co COL,MF,Ind. Medellín,18,2006,20,15,1241,13.8,0,1,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches,f2f1a62f
+402,Daniel Londoño,co COL,DF,Ind. Medellín,30,1995,49,49,4304,47.8,1,3,4,1,0,0,13,1,0.02,0.06,0.08,0.02,0.08,Matches,c69fe270
+403,Emanuel Londoño,co COL,DF,Envigado FC,19,2005,7,7,628,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,5a0a81f0
+404,Kevin Londoño,co COL,MF,Bucaramanga,31,1993,43,35,2953,32.8,2,6,8,2,0,0,7,0,0.06,0.18,0.24,0.06,0.24,Matches,cfc0c4ad
+405,Kevin Londoño,co COL,MF,Boyacá Chicó,24,2000,35,29,2506,27.8,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches,124bf0cc
+406,Santiago Londoño,co COL,FW,Envigado FC,16,2008,18,9,690,7.7,1,0,1,1,0,0,5,0,0.13,0.00,0.13,0.13,0.13,Matches,f7703759
+407,Hernán Lopes,ar ARG,DF,Águilas Doradas,33,1991,17,17,1530,17.0,1,0,1,1,0,0,5,0,0.06,0.00,0.06,0.06,0.06,Matches,1483cefd
+408,Andrés López,co COL,MF,Llaneros,21,2003,24,19,1342,14.9,3,1,4,3,0,0,3,1,0.20,0.07,0.27,0.20,0.27,Matches,7ab52d2b
+409,Edison López,co COL,MF,Envigado FC,25,1999,36,33,2699,30.0,4,1,5,4,0,0,13,0,0.13,0.03,0.17,0.13,0.17,Matches,05a4c22b
+410,Edwar López,co COL,MFFW,Santa Fe,29,1995,34,9,1585,17.6,1,1,2,1,0,0,7,0,0.06,0.06,0.11,0.06,0.11,Matches,70e49e09
+411,Jacobo Lopez,,DF,Pereira,,,4,3,148,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bbaf4302
+412,Jerónimo López,co COL,MF,América Cali,19,2006,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,54cbef2d
+413,Kevin Lopez,co COL,GK,Deportivo Pasto,21,2003,2,2,180,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,2a8c97de
+414,Matías López,,,Pereira,,,3,0,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e116ac1d
+415,Santiago López,co COL,MFFW,La Equidad,22,2002,13,2,491,5.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,39cf1d2d
+416,Yael López,cr CRC,DF,Boyacá Chicó,26,1998,14,12,917,10.2,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,710cd718
+417,Dylan Lozano,co COL,DFMF,Águilas Doradas,22,2002,32,19,1821,20.2,2,2,4,2,0,0,2,0,0.10,0.10,0.20,0.10,0.20,Matches,9301991e
+418,Frank Lozano,co COL,MF,Águilas Doradas,31,1993,20,20,1695,18.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,8695162f
+419,Frank Lozano,co COL,MFDF,Boyacá Chicó,31,1993,19,19,1710,19.0,3,0,3,2,1,1,2,0,0.16,0.00,0.16,0.11,0.11,Matches,8695162f
+420,Carlos Lucumi,co COL,FW,Alianza Petrolera,24,2000,15,12,1086,12.1,10,0,10,7,3,3,5,0,0.83,0.00,0.83,0.58,0.58,Matches,530f6972
+421,Carlos Lucumi,co COL,FW,Fortaleza FC,24,2000,6,0,146,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,530f6972
+422,Jan Lucumí González,co COL,FWMF,América Cali,20,2004,41,24,2077,23.1,2,5,7,2,0,0,7,1,0.09,0.22,0.30,0.09,0.30,Matches,60df0676
+423,Jorge Luis Ramos,co COL,FW,Santa Fe,32,1992,2,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,604b56c6
+424,David Macalister Silva,co COL,MFFW,Millonarios,38,1986,9,6,539,6.0,1,2,3,1,0,0,1,0,0.17,0.33,0.50,0.17,0.50,Matches,e7f69a30
+425,Christian Mafla,co COL,DFMF,Santa Fe,32,1993,47,44,3737,41.5,5,1,6,5,0,0,8,0,0.12,0.02,0.14,0.12,0.14,Matches,f379bc1e
+426,Jerson Malagón,co COL,DF,Once Caldas,31,1993,28,26,2256,25.1,2,1,3,2,0,0,6,0,0.08,0.04,0.12,0.08,0.12,Matches,d2415f74
+427,Gerónimo Mancilla,co COL,FW,Ind. Medellín,16,2008,3,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,73231882
+428,Harrinson Mancilla,co COL,MFFW,Águilas Doradas,33,1991,25,16,1487,16.5,0,0,0,0,0,0,9,2,0.00,0.00,0.00,0.00,0.00,Matches,e12ad8f7
+429,Rubén Manjarrés,co COL,MF,Alianza Petrolera,24,2000,29,19,1639,18.2,1,4,5,1,0,0,5,0,0.05,0.22,0.27,0.05,0.27,Matches,e0da723c
+430,Daniel Mantilla,co COL,MF,Millonarios,28,1996,9,5,468,5.2,0,3,3,0,0,0,3,0,0.00,0.58,0.58,0.00,0.58,Matches,007be212
+431,Daniel Mantilla,co COL,MFFW,Llaneros,28,1996,16,9,917,10.2,1,3,4,1,0,0,5,0,0.10,0.29,0.39,0.10,0.39,Matches,007be212
+432,Kevin Mantilla,co COL,DF,Ind. Medellín,21,2003,8,8,577,6.4,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,3c9d192d
+433,Luis Manuel Orejuela,co COL,DFMF,Deportivo Cali,29,1995,17,9,824,9.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,e6a6379d
+434,Juan Manuel Rengifo,co COL,MF,Atlético Nacional,19,2005,14,7,649,7.2,2,3,5,2,0,0,2,0,0.28,0.42,0.69,0.28,0.69,Matches,f12f32a5
+435,Juan Manuel Valencia,co COL,MF,Deportivo Pasto,26,1998,9,5,454,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,7f50c23b
+436,Juan Marcelin,co COL,MF,Boyacá Chicó,24,2000,3,0,78,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,24ec1b5a
+437,Luis Marimón,co COL,FW,Millonarios,20,2004,23,11,1005,11.2,3,0,3,3,0,0,5,0,0.27,0.00,0.27,0.27,0.27,Matches,1684fe95
+438,Ricardo Márquez,co COL,FW,U. Magdalena,27,1997,31,27,2215,24.6,9,3,12,7,2,3,9,0,0.37,0.12,0.49,0.28,0.41,Matches,b8381493
+439,Luis Marquines,co COL,GK,Atlético Nacional,21,2003,6,6,518,5.8,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,9db32a90
+440,Samuel Martín,,DF,Millonarios,,,13,13,1091,12.1,0,1,1,0,0,0,2,0,0.00,0.08,0.08,0.00,0.08,Matches,a30b7f4f
+441,Homer Martínez,co COL,MFDF,Ind. Medellín,27,1997,26,24,1954,21.7,1,2,3,1,0,0,8,1,0.05,0.09,0.14,0.05,0.14,Matches,6b627de8
+442,Jefferson Martinez,co COL,GK,Junior,31,1993,11,9,905,10.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,6129132f
+443,Jhon Martínez,co COL,MFFW,Fortaleza FC,19,2005,15,5,543,6.0,1,0,1,1,0,0,0,0,0.17,0.00,0.17,0.17,0.17,Matches,4d2b35b5
+444,Johan Martínez,co COL,MF,Deportivo Cali,22,2002,15,14,1235,13.7,4,4,8,4,0,0,2,0,0.29,0.29,0.58,0.29,0.58,Matches,51b200ab
+445,Jorge Martínez,co COL,GK,Pereira,18,2007,2,1,104,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4e01bc9f
+446,Michael Martínez,co COL,DF,Deportes Tolima,18,2006,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,83438a13
+447,Misael Martínez,co COL,FW,Alianza Petrolera,26,1998,13,9,722,8.0,1,1,2,1,0,0,4,0,0.12,0.12,0.25,0.12,0.25,Matches,d60d4c64
+448,Misael Martínez,co COL,MFFW,U. Magdalena,26,1998,14,2,419,4.7,1,1,2,1,0,0,0,1,0.21,0.21,0.43,0.21,0.43,Matches,d60d4c64
+449,Yaliston Martínez,co COL,DF,Boyacá Chicó,24,2000,5,4,398,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e566f0c0
+450,Jonathan Marulanda,co COL,DFMF,Fortaleza FC,29,1995,23,23,1848,20.5,1,0,1,1,0,0,10,1,0.05,0.00,0.05,0.05,0.05,Matches,1dc7970f
+451,Miguel Marulanda,co COL,MF,Envigado FC,16,2008,9,0,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8c424d50
+452,José Masllorens,co COL,MF,La Equidad,23,2001,17,15,1142,12.7,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,b90a5551
+453,Joaquín Mattalia,ar ARG,GK,U. Magdalena,32,1992,18,18,1620,18.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,af373c09
+454,Samir Mayo,co COL,MFFW,La Equidad,22,2003,37,30,2499,27.8,3,2,5,3,0,0,7,0,0.11,0.07,0.18,0.11,0.18,Matches,c8110448
+455,Jonatan Mayorga,co COL,MF,Llaneros,19,2005,7,1,166,1.8,1,1,2,1,0,0,0,0,0.54,0.54,1.08,0.54,1.08,Matches,a8299513
+456,Brayan Medina,co COL,DF,América Cali,22,2002,17,17,1503,16.7,0,1,1,0,0,0,7,0,0.00,0.06,0.06,0.00,0.06,Matches,6e15c550
+457,Gleyfer Medina,,FW,Bucaramanga,,,18,3,342,3.8,3,0,3,3,0,0,1,0,0.79,0.00,0.79,0.79,0.79,Matches,df1425b1
+458,Maicol Medina,co COL,MF,Llaneros,27,1997,11,4,398,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,21ec0db7
+459,Jhostín Medranda,co COL,DF,Pereira,23,2001,9,8,774,8.6,1,1,2,1,0,0,3,0,0.12,0.12,0.23,0.12,0.23,Matches,1e3b5e4f
+460,Andrés Mehring,ar ARG,GK,Santa Fe,30,1994,3,2,198,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,5dd79047
+461,Robert Mejía,co COL,MF,Once Caldas,24,2000,13,12,913,10.1,1,0,1,1,0,0,5,1,0.10,0.00,0.10,0.10,0.10,Matches,6a3c222c
+462,Víctor Mejía,co COL,MF,Deportivo Cali,31,1993,16,15,1090,12.1,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,7dfd29f5
+463,Víctor Mejía,co COL,MF,Pereira,31,1993,11,7,611,6.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,7dfd29f5
+464,Santiago Mele,uy URU,GK,Junior,27,1997,18,18,1534,17.0,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,62849d22
+465,John Meléndez,co COL,DFMF,Santa Fe,23,2002,32,15,1541,17.1,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,cb566222
+466,Marcelo Meli,ar ARG,MFFW,Santa Fe,32,1992,11,4,370,4.1,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,e02f182f
+467,Esneyder Mena,co COL,MF,Ind. Medellín,27,1997,24,21,1852,20.6,0,3,3,0,0,0,3,0,0.00,0.15,0.15,0.00,0.15,Matches,b0818269
+468,Esneyder Mena,co COL,DFMF,América Cali,27,1997,14,12,1084,12.0,1,2,3,1,0,0,1,0,0.08,0.17,0.25,0.08,0.25,Matches,b0818269
+469,Howell Mena,co COL,DF,Junior,23,2001,3,3,195,2.2,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,663690a1
+470,Howell Mena,co COL,DF,Llaneros,23,2001,12,5,619,6.9,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,663690a1
+471,Javier Mena,co COL,DF,Águilas Doradas,20,2004,32,26,2400,26.7,1,2,3,1,0,0,5,0,0.04,0.07,0.11,0.04,0.11,Matches,9cadd116
+472,Javier Mena,co COL,FW,Pereira,19,2005,4,0,95,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,16f61115
+473,Jefferson Mena,co COL,DF,Bucaramanga,35,1989,40,37,3323,36.9,1,0,1,1,0,0,9,0,0.03,0.00,0.03,0.03,0.03,Matches,fd931198
+474,John Méndez,co COL,MF,Deportivo Pasto,20,2004,17,12,1063,11.8,2,1,3,2,0,0,3,0,0.17,0.08,0.25,0.17,0.25,Matches,9b3eba10
+475,Diego Mendoza,co COL,MF,Alianza Petrolera,24,2001,17,15,1136,12.6,0,2,2,0,0,0,5,0,0.00,0.16,0.16,0.00,0.16,Matches,21831538
+476,Daniel Mera,co COL,DF,U. Magdalena,25,1999,13,11,938,10.4,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,c180d967
+477,Juan Mera,co COL,DF,Deportes Tolima,22,2002,15,10,985,10.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,dc9565b7
+478,José Mercado,co COL,MF,U. Magdalena,21,2003,30,21,1953,21.7,1,2,3,1,0,0,3,1,0.05,0.09,0.14,0.05,0.14,Matches,b70042be
+479,Samy Merheg,lb LIB,FW,Pereira,18,2006,25,19,1581,17.6,5,2,7,5,0,0,5,0,0.28,0.11,0.40,0.28,0.40,Matches,fbbaeb47
+480,Francisco Meza,co COL,DF,Deportivo Cali,33,1991,4,4,315,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,05540190
+481,Francisco Meza,co COL,DF,Llaneros,33,1991,19,19,1682,18.7,2,1,3,2,0,0,4,0,0.11,0.05,0.16,0.11,0.16,Matches,05540190
+482,Joider Micolta,co COL,MF,América Cali,22,2002,11,2,225,2.5,1,0,1,1,0,0,0,1,0.40,0.00,0.40,0.40,0.40,Matches,ea471391
+483,Joider Micolta,co COL,MF,La Equidad,22,2002,18,13,1092,12.1,1,1,2,1,0,0,4,2,0.08,0.08,0.16,0.08,0.16,Matches,ea471391
+484,Fernando Mimbacas,uy URU,FW,Deportivo Cali,22,2002,13,2,387,4.3,2,0,2,1,1,1,2,0,0.47,0.00,0.47,0.23,0.23,Matches,a64ed0c0
+485,David Mina,co COL,DF,América Cali,25,1999,29,24,2171,24.1,0,5,5,0,0,0,9,0,0.00,0.21,0.21,0.00,0.21,Matches,fe460951
+486,Jaison Mina,co COL,DF,Llaneros,25,2000,14,5,650,7.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,ee42e509
+487,Luis Mina,co COL,DF,Alianza Petrolera,20,2004,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,3b5411f5
+488,Luis Miranda,co COL,MF,Llaneros,27,1997,18,10,858,9.5,1,1,2,1,0,0,3,1,0.10,0.10,0.21,0.10,0.21,Matches,bfb7e69b
+489,Luis Miranda,co COL,MF,Deportes Tolima,27,1997,17,5,588,6.5,1,0,1,1,0,0,0,0,0.15,0.00,0.15,0.15,0.15,Matches,bfb7e69b
+490,Anderson Mojica,co COL,DF,Llaneros,26,1998,14,13,970,10.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1f80ef16
+491,David Mojica,co COL,GK,U. Magdalena,18,2006,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,37bbca00
+492,Freddy Molina,ve VEN,DF,U. Magdalena,21,2004,17,13,1203,13.4,2,0,2,2,0,0,3,1,0.15,0.00,0.15,0.15,0.15,Matches,5b8b3ff0
+493,Jairo Molina,co COL,FW,Boyacá Chicó,31,1993,37,37,3136,34.8,14,3,17,11,3,4,10,1,0.40,0.09,0.49,0.32,0.40,Matches,2b5f2087
+494,Tomas Molina,co COL,MF,Santa Fe,20,2004,12,4,477,5.3,0,1,1,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,3c9d4458
+495,Manuel Mónaco,ar ARG,MF,La Equidad,22,2002,18,8,756,8.4,2,1,3,2,0,0,1,0,0.24,0.12,0.36,0.24,0.36,Matches,e3c45b18
+496,Jordy Monroy,am ARM,DF,Pereira,29,1996,14,6,655,7.3,0,3,3,0,0,0,1,0,0.00,0.41,0.41,0.00,0.41,Matches,451cfa37
+497,Jordy Monroy,am ARM,DF,Santa Fe,29,1996,11,8,762,8.5,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches,451cfa37
+498,Brayan Montaño,co COL,DF,La Equidad,22,2002,21,16,1504,16.7,0,0,0,0,0,0,2,2,0.00,0.00,0.00,0.00,0.00,Matches,c76c3c23
+499,Geovan Montes,co COL,DF,Llaneros,29,1996,26,24,1965,21.8,3,0,3,3,0,0,4,0,0.14,0.00,0.14,0.14,0.14,Matches,5ecd1e26
+500,Jhon Montoya,,MF,Pereira,,,4,4,279,3.1,1,0,1,1,0,0,0,0,0.32,0.00,0.32,0.32,0.32,Matches,5f705889
+501,Juan Montoya,co COL,MF,Deportivo Cali,19,2005,8,1,231,2.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,f33a3c0a
+502,Juan Montoya,co COL,GK,Envigado FC,26,1998,14,13,1215,13.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,ed4cc9bb
+503,Lucas Monzón,uy URU,DF,Junior,23,2001,7,4,393,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,312755e2
+504,Ángel Mora,co COL,FW,Santa Fe,16,2008,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ecbb6b2b
+505,Alejandro Moralez,co COL,DF,Bucaramanga,23,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a0dabe24
+506,Wilson Morelo,co COL,FW,Águilas Doradas,37,1987,31,19,1752,19.5,6,1,7,6,0,1,3,0,0.31,0.05,0.36,0.31,0.36,Matches,30a66b02
+507,Alfredo Morelos,co COL,FW,Atlético Nacional,28,1996,46,39,3194,35.5,16,11,27,13,3,4,12,1,0.45,0.31,0.76,0.37,0.68,Matches,ef88f778
+508,Alex Moreno,co COL,DF,Millonarios,23,2002,7,7,630,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,bbc6ed5c
+509,Dayro Moreno,co COL,FW,Once Caldas,39,1985,40,35,3074,34.2,14,2,16,10,4,4,7,0,0.41,0.06,0.47,0.29,0.35,Matches,cfaf9525
+510,Didier Moreno,co COL,MF,Junior,33,1991,43,41,3478,38.6,4,2,6,4,0,0,12,1,0.10,0.05,0.16,0.10,0.16,Matches,71849534
+511,Diego Moreno,co COL,MFFW,Ind. Medellín,28,1996,29,16,1435,15.9,3,2,5,3,0,0,3,1,0.19,0.13,0.31,0.19,0.31,Matches,5aee3078
+512,Eber Moreno,co COL,DF,Pereira,23,2002,15,6,661,7.3,0,1,1,0,0,0,0,0,0.00,0.14,0.14,0.00,0.14,Matches,30141962
+513,Ederson Moreno,co COL,MF,Pereira,31,1994,6,2,250,2.8,0,1,1,0,0,0,3,0,0.00,0.36,0.36,0.00,0.36,Matches,61e21869
+514,Jaider Moreno,co COL,FW,Deportivo Cali,20,2004,13,2,420,4.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,8446d5fa
+515,Kevin Moreno,co COL,DF,Alianza Petrolera,24,2000,19,15,1284,14.3,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,9c577f31
+516,Marlos Moreno,co COL,MF,Atlético Nacional,28,1996,20,12,1031,11.5,1,2,3,1,0,0,3,1,0.09,0.17,0.26,0.09,0.26,Matches,8499c713
+517,Neyder Moreno,co COL,MF,Bucaramanga,27,1997,17,8,827,9.2,2,1,3,2,0,0,2,0,0.22,0.11,0.33,0.22,0.33,Matches,7fdcf661
+518,Víctor Moreno,co COL,DF,Santa Fe,30,1994,43,41,3582,39.8,1,1,2,1,0,0,9,0,0.03,0.03,0.05,0.03,0.05,Matches,8a1ce21b
+519,Yairo Moreno,co COL,FW,Santa Fe,29,1995,11,1,326,3.6,0,1,1,0,0,0,2,0,0.00,0.28,0.28,0.00,0.28,Matches,9eb9fdec
+520,Yeferson Moreno,co COL,DF,Junior,21,2004,8,5,417,4.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2f0dcbb7
+521,Yoimar Moreno,co COL,MF,Deportes Tolima,17,2007,7,3,233,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ef490115
+522,Nicolás Morínigo,py PAR,FW,Deportivo Pasto,24,2000,15,5,608,6.8,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,abee49dd
+523,Andrés Mosquera,co COL,GK,Santa Fe,33,1991,46,46,4122,45.8,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,45de7679
+524,Andrés Mosquera,co COL,DF,América Cali,34,1990,23,18,1612,17.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,9cacb8e1
+525,Cristián Mosquera,co COL,DFMF,Fortaleza FC,24,2000,32,22,2078,23.1,0,3,3,0,0,0,6,1,0.00,0.13,0.13,0.00,0.13,Matches,2c422832
+526,Dairon Mosquera,co COL,DF,U. Magdalena,32,1992,26,25,2031,22.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,33b8aafe
+527,Duván Mosquera,co COL,MFFW,Llaneros,26,1998,13,10,795,8.8,0,1,1,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches,a01f3c7b
+528,Edwin Mosquera,co COL,MF,Millonarios,23,2001,15,8,774,8.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,15cda5f6
+529,Fabián Mosquera,co COL,MF,Alianza Petrolera,29,1995,16,2,332,3.7,0,1,1,0,0,0,4,0,0.00,0.27,0.27,0.00,0.27,Matches,ce9f7066
+530,Fabián Mosquera,co COL,DFMF,Deportes Tolima,29,1995,10,6,551,6.1,1,0,1,1,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches,ce9f7066
+531,Felipe Mosquera,co COL,MF,Pereira,22,2002,15,3,410,4.6,2,0,2,2,0,0,1,0,0.44,0.00,0.44,0.44,0.44,Matches,ff480f8a
+532,Jherson Mosquera,co COL,MFDF,Ind. Medellín,25,1999,20,18,1397,15.5,0,2,2,0,0,0,2,2,0.00,0.13,0.13,0.00,0.13,Matches,5da52e88
+533,Josseph Mosquera,,MF,Pereira,,,4,3,299,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2c2176cc
+534,Luis Mosquera,co COL,DF,La Equidad,18,2006,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7c62add0
+535,Ronaldino Mosquera,,MF,Pereira,,,4,4,290,3.2,1,1,2,0,1,1,0,0,0.31,0.31,0.62,0.00,0.31,Matches,94745635
+536,Santiago Mosquera,co COL,DF,Pereira,19,2005,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,01eb50ee
+537,Santiago Mosquera,co COL,FWMF,Santa Fe,29,1995,45,37,3168,35.2,7,9,16,6,1,2,4,2,0.20,0.26,0.45,0.17,0.43,Matches,bca135e8
+538,Sebastián Mosquera,co COL,MF,Millonarios,18,2006,5,1,78,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,41d46d40
+539,Sergio Mosquera,co COL,DF,Millonarios,30,1994,20,17,1550,17.2,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,95902737
+540,José Moya,co COL,DF,Pereira,32,1992,29,29,2600,28.9,2,0,2,2,0,0,9,2,0.07,0.00,0.07,0.07,0.07,Matches,57cbdb1d
+541,Deiby Muñoz,co COL,MF,Envigado FC,17,2007,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b8a16fd0
+542,Jesús Muñoz,co COL,MFFW,Alianza Petrolera,23,2002,33,26,2094,23.3,3,2,5,3,0,0,4,0,0.13,0.09,0.21,0.13,0.21,Matches,cc850aa0
+543,Brayan Murillo,co COL,DF,Envigado FC,21,2004,11,11,907,10.1,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,4396dc9c
+544,David Murillo,co COL,DF,U. Magdalena,31,1993,19,13,1252,13.9,0,2,2,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,410f8bdc
+545,Ewil Murillo,co COL,MF,Santa Fe,24,2000,35,25,1907,21.2,2,0,2,2,0,0,25,2,0.09,0.00,0.09,0.09,0.09,Matches,65f57d87
+546,Jesús Murillo,co COL,DF,U. Magdalena,31,1993,7,7,604,6.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fc91c060
+547,Jhon Murillo,ve VEN,FWMF,América Cali,29,1995,11,4,399,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0d93febc
+548,Luis Narváez,co COL,DF,U. Magdalena,40,1984,14,13,1109,12.3,1,1,2,1,0,0,4,1,0.08,0.08,0.16,0.08,0.16,Matches,f22b3f46
+549,Efraín Navarro,co COL,DF,Once Caldas,25,1999,8,8,660,7.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6acc0b39
+550,Efraín Navarro,co COL,DF,Alianza Petrolera,25,1999,3,3,249,2.8,0,1,1,0,0,0,0,0,0.00,0.36,0.36,0.00,0.36,Matches,6acc0b39
+551,Franklin Navarro,co COL,FW,U. Magdalena,25,1999,3,0,66,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,6b7baf49
+552,Sander Navarro,co COL,DF,Millonarios,21,2003,15,12,929,10.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,e5cf6aeb
+553,Sebastián Navarro,co COL,MF,América Cali,24,2000,40,29,2401,26.7,1,2,3,1,0,0,5,1,0.04,0.07,0.11,0.04,0.11,Matches,4e2c6749
+554,Jhon Navia,co COL,DF,Junior,21,2003,7,6,477,5.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,8fefde24
+555,Jhonier Negrete,,MF,Boyacá Chicó,,,5,1,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,aeda1cf2
+556,Juan Nieto,co COL,MF,Deportes Tolima,31,1993,49,48,3809,42.3,4,4,8,4,0,0,4,0,0.09,0.09,0.19,0.09,0.19,Matches,fe504667
+557,Santiago Noreña,co COL,DF,Envigado FC,26,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,970b7db1
+558,Diego Novoa,co COL,GK,Millonarios,35,1989,17,15,1425,15.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,ebaa3683
+559,Jorge Obregón,co COL,FW,Águilas Doradas,27,1997,14,8,785,8.7,3,1,4,2,1,2,1,0,0.34,0.11,0.46,0.23,0.34,Matches,8017a694
+560,Deiro Ochoa,co COL,,Envigado FC,17,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,124e0430
+561,Juan Ojeda,py PAR,DF,Boyacá Chicó,26,1998,10,9,719,8.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,03824b92
+562,Emanuel Olivera,ar ARG,DF,Santa Fe,34,1990,43,39,3652,40.6,1,0,1,1,0,0,12,1,0.02,0.00,0.02,0.02,0.02,Matches,cc4ca2f6
+563,Auli Oliveros,co COL,MF,Águilas Doradas,23,2001,11,5,480,5.3,0,1,1,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,4d54c92e
+564,Willian Ordóñez,co COL,MF,Deportivo Pasto,20,2004,11,3,301,3.3,1,0,1,1,0,0,1,0,0.30,0.00,0.30,0.30,0.30,Matches,f1cca481
+565,Julián Oritz,,DF,Pereira,,,3,3,210,2.3,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,c3aafff0
+566,Matías Orozco,co COL,MF,Deportivo Cali,17,2007,11,6,549,6.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,7d146b04
+567,Santiago Orozco,co COL,MF,La Equidad,28,1996,15,15,968,10.8,1,0,1,1,0,0,7,0,0.09,0.00,0.09,0.09,0.09,Matches,6eeab3b2
+568,Miguel Ortega,mx MEX,GK,Llaneros,29,1995,19,19,1665,18.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,aa41e29e
+569,Dilan Ortíz,co COL,DFMF,U. Magdalena,21,2003,12,8,653,7.3,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,5d7e1e31
+570,José Ortiz,co COL,DF,Ind. Medellín,26,1998,35,30,2621,29.1,3,2,5,3,0,0,6,0,0.10,0.07,0.17,0.10,0.17,Matches,7e0815bc
+571,Jeison Osorio,co COL,FW,Alianza Petrolera,18,2006,5,2,164,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,334be2e0
+572,Kelvin Osorio,co COL,MF,Pereira,31,1993,29,25,2066,23.0,1,0,1,1,0,0,9,1,0.04,0.00,0.04,0.04,0.04,Matches,1247ace9
+573,David Ospina,co COL,GK,Atlético Nacional,36,1988,33,33,2970,33.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,82b1198a
+574,Néider Ospina,co COL,MF,Llaneros,22,2003,7,0,88,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,75647efa
+575,Juan Pablo Vargas,cr CRC,DF,Millonarios,29,1995,15,13,1200,13.3,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,e22564a0
+576,Dorlan Pabón,co COL,MF,Envigado FC,37,1988,4,3,217,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4eb45683
+577,Walmer Pacheco,co COL,DF,Pereira,30,1995,29,24,2065,22.9,0,1,1,0,0,0,13,0,0.00,0.04,0.04,0.00,0.04,Matches,69e016b7
+578,Guillermo Paiva,py PAR,FWMF,Junior,27,1997,47,39,3052,33.9,10,6,16,9,1,3,10,1,0.29,0.18,0.47,0.27,0.44,Matches,ac5ffc5e
+579,Ronaldo Pájaro,co COL,MFDF,Fortaleza FC,22,2002,34,28,2371,26.3,1,2,3,1,0,0,8,0,0.04,0.08,0.11,0.04,0.11,Matches,4ac2b0a5
+580,Benigno Palacio,co COL,MF,Águilas Doradas,23,2001,3,2,133,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,17f4616a
+581,Juan Palacio,co COL,FW,Águilas Doradas,21,2003,3,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,36767095
+582,Julián Palacio,co COL,MF,Envigado FC,21,2003,38,32,2809,31.2,0,1,1,0,0,0,10,0,0.00,0.03,0.03,0.00,0.03,Matches,89864ec6
+583,Brayam Palacios,co COL,DF,Boyacá Chicó,26,1998,3,1,205,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0b8bbcaa
+584,Didier Palacios,co COL,DF,Envigado FC,20,2004,28,26,2357,26.2,2,1,3,2,0,0,13,1,0.08,0.04,0.11,0.08,0.11,Matches,29da4a50
+585,Helibelton Palacios,co COL,DF,Millonarios,31,1993,28,15,1644,18.3,2,1,3,2,0,0,6,0,0.11,0.05,0.16,0.11,0.16,Matches,ac8b2421
+586,Jhon Palacios,co COL,MFFW,América Cali,19,2005,19,10,912,10.1,3,2,5,3,0,0,4,0,0.30,0.20,0.49,0.30,0.49,Matches,cb8d9aff
+587,Jhon Palacios,co COL,DF,Ind. Medellín,25,1999,18,13,1123,12.5,2,0,2,2,0,0,3,0,0.16,0.00,0.16,0.16,0.16,Matches,562e420a
+588,Kevin Palacios,co COL,MF,Millonarios,25,2000,15,8,827,9.2,5,0,5,5,0,0,2,0,0.54,0.00,0.54,0.54,0.54,Matches,1974fc49
+589,Luis Palacios,co COL,MFDF,Once Caldas,23,2001,33,12,1597,17.7,2,2,4,2,0,0,4,0,0.11,0.11,0.23,0.11,0.23,Matches,1680bb3c
+590,Martín Palacios,,FW,Santa Fe,,,6,1,137,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,033bd57d
+591,Sebastian Palacios,co COL,MF,Fortaleza FC,19,2005,2,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1e69d71e
+592,Darwin Palomeque,co COL,DF,U. Magdalena,31,1993,5,5,450,5.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,dced84c7
+593,Felipe Pardo,co COL,FWMF,Alianza Petrolera,34,1990,27,16,1303,14.5,7,0,7,6,1,1,2,0,0.48,0.00,0.48,0.41,0.41,Matches,5f956fcf
+594,Adrián Parra,co COL,FWMF,Deportes Tolima,28,1997,42,25,2352,26.1,10,3,13,10,0,1,7,0,0.38,0.11,0.50,0.38,0.50,Matches,080b1041
+595,Joan Parra,co COL,GK,Once Caldas,24,2000,7,7,630,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,64b12717
+596,Johan Parra,co COL,FW,Alianza Petrolera,20,2004,5,0,93,1.0,1,0,1,1,0,0,3,0,0.97,0.00,0.97,0.97,0.97,Matches,95a2b962
+597,Kevin Parra,co COL,MF,Atlético Nacional,21,2003,12,2,247,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d536f608
+598,Kevin Parra,co COL,FWMF,La Equidad,21,2003,17,17,1266,14.1,4,0,4,4,0,0,2,1,0.28,0.00,0.28,0.28,0.28,Matches,d536f608
+599,Yimar Parra,co COL,FW,Deportes Tolima,18,2007,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ca32e34c
+600,Camilo Paternina,co COL,FW,La Equidad,23,2001,7,0,184,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b06de6d9
+601,Juan Patiño,co COL,DF,Once Caldas,26,1998,21,21,1832,20.4,0,1,1,0,0,0,6,1,0.00,0.05,0.05,0.00,0.05,Matches,2b6a34b1
+602,Martín Payares,co COL,DF,U. Magdalena,29,1995,19,19,1705,18.9,1,0,1,1,0,0,6,0,0.05,0.00,0.05,0.05,0.05,Matches,685fbdf3
+603,Dayro Pena,,MF,La Equidad,,,4,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,87eefd92
+604,Gianfranco Peña,co COL,FW,Pereira,24,2000,16,4,520,5.8,2,1,3,2,0,0,0,0,0.35,0.17,0.52,0.35,0.52,Matches,02827eca
+605,Jermein Peña,co COL,DF,Junior,25,1999,18,17,1499,16.7,1,0,1,1,0,0,2,2,0.06,0.00,0.06,0.06,0.06,Matches,73a221b1
+606,José Peñaloza,co COL,DF,U. Magdalena,,,6,2,167,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,81fc876f
+607,Adalberto Peñaranda,ve VEN,MFFW,Bucaramanga,27,1997,10,4,357,4.0,1,1,2,0,1,1,1,0,0.25,0.25,0.50,0.00,0.25,Matches,4b3f2936
+608,Elian Peralta,py PAR,DF,Boyacá Chicó,23,2001,20,18,1545,17.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,571f159e
+609,Andrés Pérez,co COL,GK,La Equidad,25,1999,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,15794f0e
+610,Jose Perez,,MF,U. Magdalena,,,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9c709837
+611,Josy Pérez,co COL,MF,Alianza Petrolera,25,1999,4,0,101,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9f95f917
+612,Kevin Pérez,co COL,MF,Deportes Tolima,27,1997,43,36,2767,30.7,3,7,10,3,0,1,11,1,0.10,0.23,0.33,0.10,0.33,Matches,4398f594
+613,Luis Pérez,co COL,MF,Alianza Petrolera,28,1996,33,19,1882,20.9,1,0,1,1,0,0,2,0,0.05,0.00,0.05,0.05,0.05,Matches,dd02f975
+614,Marco Pérez,co COL,FWMF,Junior,34,1990,3,0,43,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2264e79b
+615,Marco Pérez,co COL,FW,Pereira,34,1990,12,3,415,4.6,1,1,2,1,0,0,1,0,0.22,0.22,0.43,0.22,0.43,Matches,2264e79b
+616,Rafa Pérez,co COL,DF,U. Magdalena,35,1990,6,6,498,5.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,be83af89
+617,Baldomero Perlaza,co COL,MF,Ind. Medellín,32,1992,43,32,2908,32.3,7,2,9,7,0,0,6,0,0.22,0.06,0.28,0.22,0.28,Matches,f7f77b05
+618,Elvis Perlaza,co COL,DFMF,Santa Fe,35,1989,32,31,2247,25.0,0,1,1,0,0,0,18,1,0.00,0.04,0.04,0.00,0.04,Matches,6c647ddd
+619,Yeicar Perlaza,co COL,FWMF,Santa Fe,22,2003,22,12,883,9.8,1,1,2,1,0,0,0,0,0.10,0.10,0.20,0.10,0.20,Matches,a0d09bc0
+620,Jean Pestaña,co COL,DF,América Cali,27,1997,43,42,3746,41.6,3,0,3,3,0,0,12,0,0.07,0.00,0.07,0.07,0.07,Matches,be8a645b
+621,Leonardo Pico,co COL,MF,Fortaleza FC,33,1991,31,31,2700,30.0,0,1,1,0,0,0,3,0,0.00,0.03,0.03,0.00,0.03,Matches,a022d43b
+622,Jacobo Pimentel,co COL,MFFW,Boyacá Chicó,23,2002,18,7,521,5.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,625abc5a
+623,Jaen Pineda,co COL,MFDF,Águilas Doradas,27,1997,33,26,2309,25.7,2,4,6,2,0,0,10,1,0.08,0.16,0.23,0.08,0.23,Matches,e667f114
+624,Joel Piñeres,co COL,MF,Santa Fe,19,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,36236dea
+625,Jhoan Pinto,co COL,MF,U. Magdalena,19,2005,7,0,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,69e32e61
+626,Anderson Plata,co COL,FWMF,Águilas Doradas,34,1990,8,0,166,1.8,0,1,1,0,0,0,2,0,0.00,0.54,0.54,0.00,0.54,Matches,3e20e946
+627,Daniel Polanco,co COL,DF,La Equidad,26,1998,12,9,933,10.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,47d1e0dd
+628,Andrés Ponce,ve VEN,FW,Bucaramanga,28,1996,8,5,374,4.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d9600938
+629,Luciano Pons,ar ARG,FW,Bucaramanga,34,1990,39,35,3052,33.9,18,5,23,13,5,7,10,0,0.53,0.15,0.68,0.38,0.53,Matches,a922bc6c
+630,Juan Prada,,MF,Boyacá Chicó,,,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,094761a2
+631,Patrick Preciado,co COL,FWMF,Deportivo Pasto,19,2005,15,4,423,4.7,2,0,2,2,0,0,2,0,0.43,0.00,0.43,0.43,0.43,Matches,c768afc7
+632,Sebastián Prieto,co COL,FW,Fortaleza FC,18,2006,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ad3a97f1
+633,Saleth Puello,co COL,DF,Deportivo Pasto,20,2004,5,2,196,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,1add80dc
+634,Mateo Puerta,co COL,DF,Águilas Doradas,27,1997,13,12,871,9.7,1,0,1,1,0,0,4,1,0.10,0.00,0.10,0.10,0.10,Matches,a7be6c95
+635,Juan Quejada,co COL,DF,Envigado FC,18,2006,10,7,694,7.7,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,ec607047
+636,Juan Quiceno,co COL,DFMF,Boyacá Chicó,20,2004,18,15,1218,13.5,0,1,1,0,0,0,0,1,0.00,0.07,0.07,0.00,0.07,Matches,afbe7d75
+637,Daniel Quiñones,co COL,DF,Once Caldas,25,1999,1,1,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a5708270
+638,Jader Quiñónes,co COL,MF,Deportes Tolima,24,2000,19,5,554,6.2,1,1,2,1,0,0,6,0,0.16,0.16,0.32,0.16,0.32,Matches,7665ca53
+639,Jhon Quiñónes,co COL,DF,Deportes Tolima,20,2004,17,12,1171,13.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,02ee4c85
+640,Sebastián Quiñones,,,América Cali,,,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e0418886
+641,Yuber Quiñones,co COL,MF,Pereira,22,2002,33,31,2324,25.8,5,1,6,5,0,0,8,0,0.19,0.04,0.23,0.19,0.23,Matches,f4ce2c37
+642,Dannovi Quiñonez,co COL,MF,La Equidad,24,2001,9,7,643,7.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,af4e4379
+643,Dannovi Quiñonez,co COL,MF,Llaneros,24,2001,5,3,223,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,af4e4379
+644,Deiner Quiñónez,co COL,MFFW,Once Caldas,29,1995,13,6,513,5.7,0,3,3,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,011b2621
+645,Deiner Quiñónez,co COL,MFFW,Deportivo Pasto,29,1995,17,9,864,9.6,1,0,1,0,1,1,2,0,0.10,0.00,0.10,0.00,0.00,Matches,011b2621
+646,Aldair Quintana,co COL,GK,Bucaramanga,30,1994,44,44,3960,44.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0c855cba
+647,Darwin Quintero,co COL,MFFW,Pereira,37,1987,32,28,2396,26.6,7,7,14,6,1,2,4,1,0.26,0.26,0.53,0.23,0.49,Matches,0cc00553
+648,Juan Quintero,co COL,DF,Deportivo Cali,29,1995,18,18,1530,17.0,1,0,1,1,0,0,3,0,0.06,0.00,0.06,0.06,0.06,Matches,afbfddfa
+649,Juan Quintero,co COL,DF,Pereira,29,1995,7,7,554,6.2,0,0,0,0,0,0,0,2,0.00,0.00,0.00,0.00,0.00,Matches,afbfddfa
+650,Juan Quintero,co COL,MFFW,América Cali,32,1993,14,12,1075,11.9,3,3,6,3,0,0,0,1,0.25,0.25,0.50,0.25,0.50,Matches,540d0b37
+651,Yani Quintero,co COL,MF,Junior,22,2002,11,2,330,3.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,a23ce55f
+652,Yani Quintero,co COL,MF,Deportivo Cali,22,2002,16,16,1294,14.4,0,1,1,0,0,0,5,2,0.00,0.07,0.07,0.00,0.07,Matches,a23ce55f
+653,David Ramírez,co COL,DF,Santa Fe,23,2002,6,2,171,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2536c97d
+654,Delio Ramírez,co COL,MF,Boyacá Chicó,24,2000,39,24,2346,26.1,0,4,4,0,0,0,8,0,0.00,0.15,0.15,0.00,0.15,Matches,811e2e8e
+655,Juan Ramírez,co COL,MF,Millonarios,22,2002,6,2,226,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c8d5ac07
+656,Juan Ramírez,co COL,MF,Pereira,19,2005,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8475cbe2
+657,Matías Ramírez,ar ARG,MF,Águilas Doradas,25,1999,16,13,1083,12.0,1,6,7,1,0,0,2,0,0.08,0.50,0.58,0.08,0.58,Matches,cfe8fb62
+658,Nilzo Ramirez,co COL,DF,Envigado FC,19,2005,15,0,268,3.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,ba4de9db
+659,Sebastián Ramírez,us USA,DFMF,Fortaleza FC,18,2006,27,15,1502,16.7,2,0,2,2,0,0,7,1,0.12,0.00,0.12,0.12,0.12,Matches,3cd5e633
+660,Adrián Ramos,co COL,FW,América Cali,39,1986,16,3,427,4.7,2,0,2,2,0,0,1,0,0.42,0.00,0.42,0.42,0.42,Matches,c693cf7c
+661,Luis Ramos,pe PER,FW,América Cali,25,1999,35,23,1921,21.3,10,3,13,10,0,0,5,0,0.47,0.14,0.61,0.47,0.61,Matches,7db45978
+662,Nicolás Ramos,uy URU,DFMF,U. Magdalena,25,1999,15,14,1209,13.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,c578b7d0
+663,Michael Rangel,co COL,FW,Llaneros,33,1991,32,18,1712,19.0,5,3,8,5,0,0,2,1,0.26,0.16,0.42,0.26,0.42,Matches,be8fc30a
+664,Harold Reina,co COL,FW,Llaneros,34,1990,5,0,87,1.0,2,0,2,2,0,0,1,0,2.07,0.00,2.07,2.07,2.07,Matches,f14768e7
+665,Javier Reina,co COL,MFFW,Deportivo Cali,36,1989,28,13,1100,12.2,3,0,3,3,0,0,3,0,0.25,0.00,0.25,0.25,0.25,Matches,d9190bbf
+666,Renan,br BRA,FW,La Equidad,27,1997,12,9,739,8.2,2,1,3,2,0,0,2,0,0.24,0.12,0.37,0.24,0.37,Matches,9ccdd241
+667,Kevin Rendón,co COL,MF,Deportivo Pasto,32,1993,8,0,145,1.6,1,2,3,1,0,0,2,0,0.62,1.24,1.86,0.62,1.86,Matches,59bdb22b
+668,Nicolas Rengifo,co COL,MF,Pereira,20,2004,2,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,54cea58c
+669,Andrés Rentería,co COL,FWMF,Alianza Petrolera,31,1993,1,0,20,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,d076c70c
+670,Eyder Restrepo,co COL,MF,Llaneros,25,1999,28,22,1770,19.7,1,1,2,1,0,0,10,0,0.05,0.05,0.10,0.05,0.10,Matches,c746f192
+671,Kevin Reyes,co COL,DF,Deportes Tolima,18,2006,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,2544f855
+672,Victor Reyes,co COL,MF,Deportes Tolima,17,2007,3,0,61,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,feaa919c
+673,Kevin Riascos,co COL,DF,Boyacá Chicó,29,1995,14,14,1170,13.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,37b46c42
+674,Léider Riascos,co COL,DF,La Equidad,24,2000,8,7,536,6.0,1,1,2,1,0,0,3,0,0.17,0.17,0.34,0.17,0.34,Matches,bf19153a
+675,Léider Riascos,co COL,DF,Deportes Tolima,24,2000,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bf19153a
+676,Elan Ricardo,co COL,MF,La Equidad,20,2004,3,2,210,2.3,1,0,1,1,0,0,1,0,0.43,0.00,0.43,0.43,0.43,Matches,e848e971
+677,Andrés Ricaurte,co COL,MFFW,Fortaleza FC,33,1991,42,29,2324,25.8,2,4,6,2,0,0,4,1,0.08,0.15,0.23,0.08,0.23,Matches,4db5b8cb
+678,Hian Rincon,,DF,Once Caldas,,,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,518acf1a
+679,Joyce Rios,co COL,DF,Deportivo Pasto,26,1998,38,38,3398,37.8,1,1,2,1,0,0,9,1,0.03,0.03,0.05,0.03,0.05,Matches,b0aff02d
+680,Lucas Ríos,ar ARG,MF,Santa Fe,26,1998,8,1,194,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,f7a0b6dc
+681,Jáider Riquett,co COL,DF,Once Caldas,34,1990,22,17,1592,17.7,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,41cddd16
+682,Gonzalo Ritacco,ar ARG,MFFW,Deportivo Pasto,31,1993,12,4,386,4.3,0,2,2,0,0,0,1,0,0.00,0.47,0.47,0.00,0.47,Matches,5ad1997c
+683,Jorge Rivaldo,co COL,MFFW,Águilas Doradas,21,2003,11,5,455,5.1,5,1,6,5,0,0,3,0,0.99,0.20,1.19,0.99,1.19,Matches,2471801d
+684,Jesús Rivas,co COL,MF,Águilas Doradas,27,1997,15,13,1117,12.4,1,0,1,1,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches,d33ae8b9
+685,Jesús Rivas,co COL,MF,Junior,27,1997,23,18,1389,15.4,3,0,3,3,0,0,5,0,0.19,0.00,0.19,0.19,0.19,Matches,d33ae8b9
+686,Jhon Rivas,,FW,Bucaramanga,,,1,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,f80e725c
+687,Jeferson Rivas Tirado,co COL,FWMF,Deportivo Pasto,27,1997,13,5,496,5.5,2,0,2,2,0,0,0,0,0.36,0.00,0.36,0.36,0.36,Matches,d189a8a2
+688,Daniel Rivera,co COL,DF,Junior,25,1999,34,31,2722,30.2,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,c5443ac8
+689,Harold Rivera,co COL,MF,Junior,31,1993,3,2,139,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1b2d5570
+690,Elkin Rivero,co COL,MF,Atlético Nacional,18,2006,21,9,915,10.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,9c18e72f
+691,Andrés Roa,co COL,MFFW,América Cali,31,1993,11,7,498,5.5,0,2,2,0,0,0,2,0,0.00,0.36,0.36,0.00,0.36,Matches,7dcb8cb2
+692,Hugo Rodallega,co COL,FW,Santa Fe,39,1985,43,42,3734,41.5,23,3,26,15,8,8,10,0,0.55,0.07,0.63,0.36,0.43,Matches,9683d0b2
+693,Yeferson Rodallega,co COL,MF,Ind. Medellín,24,2000,17,6,625,6.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,9ae70269
+694,Mateo Rodas,co COL,DF,La Equidad,27,1998,17,17,1478,16.4,1,0,1,0,1,1,6,1,0.06,0.00,0.06,0.00,0.00,Matches,e0edb46c
+695,Mateo Rodas,co COL,DF,Once Caldas,27,1998,5,3,338,3.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,e0edb46c
+696,Alejandro Rodríguez,co COL,GK,Deportivo Cali,24,2001,40,40,3600,40.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,a09cb100
+697,Angelo Rodríguez,co COL,FW,Santa Fe,35,1989,34,10,1038,11.5,3,4,7,2,1,1,6,1,0.26,0.35,0.61,0.17,0.52,Matches,0e9ea6cf
+698,Emiliano Rodríguez,uy URU,FW,Deportivo Cali,21,2003,14,12,997,11.1,3,2,5,3,0,0,2,1,0.27,0.18,0.45,0.27,0.45,Matches,46a9b016
+699,Jared Rodríguez,,DF,Pereira,,,4,4,352,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4e782bf2
+700,Sebastian Rodríguez,co COL,DF,Águilas Doradas,24,2000,24,23,1982,22.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,256ec872
+701,Steven Rodríguez,co COL,FWMF,Junior,26,1998,47,12,1535,17.1,12,0,12,8,4,5,4,2,0.70,0.00,0.70,0.47,0.47,Matches,3ddf8cb9
+702,Carlos Rojas,co COL,FW,Águilas Doradas,26,1998,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fdf6a758
+703,Iván Rojas,co COL,MF,Once Caldas,27,1997,37,30,2547,28.3,0,1,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches,08b1c6d9
+704,Carlos Romaña,co COL,DF,Bucaramanga,25,1999,27,17,1745,19.4,1,0,1,1,0,0,8,0,0.05,0.00,0.05,0.05,0.05,Matches,be49c8e1
+705,Roameth Romaña,co COL,GK,Llaneros,28,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1e73a595
+706,Joel Romero,co COL,MFFW,América Cali,19,2006,18,8,696,7.7,0,1,1,0,0,0,2,0,0.00,0.13,0.13,0.00,0.13,Matches,b62b61f8
+707,Juan Rosa,co COL,MF,Atlético Nacional,17,2007,4,1,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,bc22091c
+708,Yilson Rosales,co COL,DF,Alianza Petrolera,24,2000,35,34,3028,33.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,43cc220a
+709,Brayan Rovira,co COL,MF,Deportes Tolima,28,1996,42,38,3195,35.5,5,5,10,5,0,0,5,1,0.14,0.14,0.28,0.14,0.28,Matches,6cf6f67f
+710,Diego Ruíz,co COL,DF,Fortaleza FC,27,1997,12,11,981,10.9,0,1,1,0,0,0,4,0,0.00,0.09,0.09,0.00,0.09,Matches,cf6c938a
+711,Daniel Ruiz Rivera,co COL,MF,Millonarios,23,2001,26,22,1833,20.4,3,3,6,2,1,2,4,0,0.15,0.15,0.29,0.10,0.25,Matches,65766650
+712,Sebastián Ruíz,,MF,Pereira,,,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2c10a7d7
+713,Winston Sagrera,,DF,U. Magdalena,,,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,44105ab1
+714,Frank Salas,,DF,Boyacá Chicó,,,9,8,560,6.2,1,0,1,1,0,0,2,1,0.16,0.00,0.16,0.16,0.16,Matches,a80c6aa9
+715,Jhoiner Salas,co COL,FWMF,Fortaleza FC,21,2003,24,7,883,9.8,1,0,1,1,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches,ea1e43c6
+716,Andrés Salazar,co COL,DF,Atlético Nacional,22,2003,25,16,1473,16.4,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches,a243a2a6
+717,Kevin Salazar,co COL,MF,Fortaleza FC,28,1996,3,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,d97d42fa
+718,Sebastian Salazar,co COL,MF,Boyacá Chicó,29,1995,11,9,668,7.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,8548109c
+719,Tomas Salazar,co COL,MF,Águilas Doradas,24,2000,11,1,126,1.4,0,1,1,0,0,0,3,0,0.00,0.71,0.71,0.00,0.71,Matches,96a34f48
+720,Anyelo Saldana,,DF,Boyacá Chicó,,,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,cda7ae90
+721,Leonardo Saldaña,co COL,DF,Alianza Petrolera,35,1989,15,13,1179,13.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,7f2adda5
+722,Fabián Sambueza,ar ARG,MFFW,Bucaramanga,36,1988,33,32,2811,31.2,6,10,16,5,1,1,11,0,0.19,0.32,0.51,0.16,0.48,Matches,e7cacfe4
+723,Brayan Sánchez,co COL,MF,Deportivo Pasto,21,2003,7,2,288,3.2,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,8186dd34
+724,Juan Sánchez,co COL,FW,Santa Fe,18,2006,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e54ae869
+725,Luis Sánchez,co COL,MFFW,Once Caldas,24,2000,12,12,893,9.9,1,0,1,1,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches,eedac811
+726,Luis Sánchez,co COL,MFFW,Fortaleza FC,24,2000,18,18,1310,14.6,2,1,3,2,0,0,1,0,0.14,0.07,0.21,0.14,0.21,Matches,eedac811
+727,Neymar Sánchez,co COL,MF,Millonarios,21,2003,1,0,24,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c8784e81
+728,Valentin Sanchez,ar ARG,MFFW,U. Magdalena,22,2002,18,13,1005,11.2,1,0,1,1,0,0,4,0,0.09,0.00,0.09,0.09,0.09,Matches,94fab5e1
+729,Luis Sandoval,co COL,FW,Ind. Medellín,25,1999,42,21,1990,22.1,6,1,7,6,0,0,7,2,0.27,0.05,0.32,0.27,0.32,Matches,f35f3f91
+730,Mateo Santamaria,co COL,MF,La Equidad,19,2005,5,3,277,3.1,0,1,1,0,0,0,1,0,0.00,0.32,0.32,0.00,0.32,Matches,4dab984a
+731,Cristian Santander,co COL,GK,Fortaleza FC,21,2003,11,11,990,11.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,a905d411
+732,Carlos Sarabia,co COL,DF,Millonarios,19,2005,3,2,177,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,7f0ec66c
+733,Andrés Sarmiento,co COL,MF,Atlético Nacional,27,1998,34,23,1849,20.5,7,4,11,7,0,0,3,0,0.34,0.19,0.54,0.34,0.54,Matches,751faa38
+734,Jannenson Sarmiento,co COL,MFFW,U. Magdalena,25,1999,39,38,3291,36.6,10,5,15,9,1,2,2,0,0.27,0.14,0.41,0.25,0.38,Matches,683af390
+735,Bruno Sávio,br BRA,MF,Millonarios,30,1994,5,1,128,1.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,b7dbcb69
+736,Iván Scarpeta,co COL,DF,Santa Fe,28,1996,34,20,1864,20.7,2,1,3,2,0,0,2,0,0.10,0.05,0.14,0.10,0.14,Matches,d745dce7
+737,Luis Segura,co COL,FW,Boyacá Chicó,20,2004,5,1,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,337ae5a1
+738,Nezareth Segura,co COL,MF,Ind. Medellín,17,2007,5,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,da7520e4
+739,Cristian Sención,uy URU,MF,U. Magdalena,29,1996,17,13,1104,12.3,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,888569d7
+740,Alexis Serna,co COL,MF,Ind. Medellín,27,1997,27,13,1132,12.6,3,0,3,3,0,0,2,0,0.24,0.00,0.24,0.24,0.24,Matches,ab7ba08f
+741,Marlon Sierra,co COL,MF,Llaneros,30,1994,30,20,1747,19.4,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,041f862d
+742,Santiago Silva,uy URU,GK,América Cali,25,1999,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ea474687
+743,Mauro Silveira,uy URU,GK,Junior,24,2000,27,27,2414,26.8,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,9dd245c3
+744,Jhon Solís,co COL,MF,Fortaleza FC,25,1999,4,0,119,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fcb8c1dd
+745,Joaquin Sosa,uy URU,DF,Santa Fe,23,2002,9,7,588,6.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,50841bef
+746,Tomás Soto,co COL,MF,Envigado FC,20,2004,17,7,539,6.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,3f740aa4
+747,Jeison Suarez,co COL,DF,Pereira,27,1997,20,20,1786,19.8,3,0,3,2,1,1,2,0,0.15,0.00,0.15,0.10,0.10,Matches,03a04d29
+748,Jeison Suarez,co COL,DF,Junior,27,1997,26,25,2250,25.0,1,3,4,1,0,0,3,0,0.04,0.12,0.16,0.04,0.16,Matches,03a04d29
+749,Kalazán Suárez,co COL,DF,Alianza Petrolera,22,2002,29,28,2417,26.9,0,3,3,0,0,0,6,1,0.00,0.11,0.11,0.00,0.11,Matches,53db898d
+750,Oscar Surmay,bo BOL,FW,U. Magdalena,18,2006,2,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4bef74fd
+751,Sebastián Támara,co COL,FWMF,La Equidad,28,1996,11,4,384,4.3,0,1,1,0,0,0,0,0,0.00,0.23,0.23,0.00,0.23,Matches,78fe36ce
+752,Kevin Tamayo,co COL,DF,Once Caldas,25,1999,12,12,977,10.9,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,be7bbd53
+753,Santiago Tamayo,co COL,DF,Santa Fe,22,2002,7,1,214,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,933355c7
+754,Manuel Tasso,ar ARG,GK,U. Magdalena,23,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,b568fe79
+755,Guillermo Tegue,co COL,DF,La Equidad,24,2000,14,14,1107,12.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2ff0b40b
+756,Juan Tello,co COL,DFMF,U. Magdalena,22,2002,23,16,1510,16.8,0,1,1,0,0,0,1,1,0.00,0.06,0.06,0.00,0.06,Matches,98206852
+757,William Tesillo,co COL,DF,Atlético Nacional,34,1990,45,43,3856,42.8,3,0,3,3,0,0,14,1,0.07,0.00,0.07,0.07,0.07,Matches,6c4f744d
+758,Fainer Torijano,co COL,DF,Ind. Medellín,36,1988,27,18,1598,17.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,748f0c75
+759,Amaury Torralvo,co COL,DF,La Equidad,31,1994,7,3,269,3.0,0,1,1,0,0,0,1,0,0.00,0.33,0.33,0.00,0.33,Matches,67339b5d
+760,Carlos Torres,co COL,MF,Envigado FC,22,2002,9,7,561,6.2,2,0,2,2,0,0,3,0,0.32,0.00,0.32,0.32,0.32,Matches,d5262a5b
+761,Daniel Torres,co COL,MF,Santa Fe,35,1989,46,36,3191,35.5,1,1,2,1,0,0,13,0,0.03,0.03,0.06,0.03,0.06,Matches,87882adc
+762,Edwin Torres,co COL,MFFW,Alianza Petrolera,27,1997,33,31,2107,23.4,6,6,12,6,0,0,8,0,0.26,0.26,0.51,0.26,0.51,Matches,96d199ca
+763,Gustavo Torres,co COL,MFFW,Deportivo Pasto,28,1996,19,14,1067,11.9,1,2,3,1,0,0,4,0,0.08,0.17,0.25,0.08,0.25,Matches,e0d2c82a
+764,Gustavo Torres,co COL,MFFW,Pereira,28,1996,12,4,495,5.5,2,0,2,2,0,0,5,0,0.36,0.00,0.36,0.36,0.36,Matches,e0d2c82a
+765,Johan Torres,co COL,MF,Santa Fe,20,2004,39,33,2575,28.6,1,1,2,1,0,0,7,1,0.03,0.03,0.07,0.03,0.07,Matches,aa431f87
+766,Juan Torres,co COL,MF,Atlético Nacional,20,2004,2,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,c99007ef
+767,Juan Torres,co COL,MF,Deportes Tolima,20,2004,25,9,1176,13.1,3,5,8,3,0,0,3,0,0.23,0.38,0.61,0.23,0.61,Matches,c99007ef
+768,Marlon Torres,co COL,DF,Deportes Tolima,28,1996,38,35,3085,34.3,2,0,2,2,0,0,13,0,0.06,0.00,0.06,0.06,0.06,Matches,3a3f66c4
+769,Kilian Toscano,co COL,MF,Atlético Nacional,20,2004,15,3,419,4.7,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,2dc26eeb
+770,Andrés Tovar,co COL,GK,Envigado FC,18,2006,10,10,855,9.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c722fe0f
+771,Cristian Tovar,co COL,DF,América Cali,26,1998,22,16,1482,16.5,1,0,1,1,0,0,3,1,0.06,0.00,0.06,0.06,0.06,Matches,1d3ba8a5
+772,Cristian Trujillo,co COL,MF,Deportes Tolima,26,1998,40,12,1683,18.7,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,94af91aa
+773,Jefrey Trujillo,co COL,DF,U. Magdalena,22,2002,3,1,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fca7c1af
+774,Cristian Uribe,co COL,DF,Atlético Nacional,17,2007,10,6,606,6.7,0,1,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches,83811662
+775,Mateus Uribe,co COL,MF,Atlético Nacional,33,1991,27,22,1706,19.0,2,5,7,2,0,0,4,1,0.11,0.26,0.37,0.11,0.37,Matches,b997c3de
+776,Neymar Uribe,co COL,DF,Envigado FC,21,2004,25,22,1933,21.5,0,2,2,0,0,0,12,0,0.00,0.09,0.09,0.00,0.09,Matches,b52bfc94
+777,Sebastián Urrea,co COL,DF,Pereira,22,2002,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1059ff87
+778,Héctor Urrego,co COL,DF,U. Magdalena,32,1992,2,2,180,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,be40d974
+779,Bryan Urueña,co COL,MF,Llaneros,32,1992,39,32,2820,31.3,3,7,10,3,0,1,2,0,0.10,0.22,0.32,0.10,0.32,Matches,bc87d0a0
+780,Albin Valencia,,DF,Boyacá Chicó,,,4,2,146,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,9f3be44e
+781,Cristian Valencia,co COL,DF,Llaneros,33,1991,12,12,960,10.7,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,4d8fef83
+782,Dairon Valencia,co COL,MFFW,Envigado FC,25,1999,10,6,495,5.5,0,1,1,0,0,0,2,0,0.00,0.18,0.18,0.00,0.18,Matches,e7d7f45a
+783,Dairon Valencia,co COL,FW,Deportivo Cali,25,1999,2,0,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e7d7f45a
+784,Ever Valencia,co COL,MF,Deportes Tolima,28,1997,30,12,1207,13.4,2,2,4,2,0,0,0,0,0.15,0.15,0.30,0.15,0.30,Matches,31f3c281
+785,Jader Valencia,co COL,FWMF,Ind. Medellín,25,1999,15,5,468,5.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e7037a4f
+786,Jader Valencia,co COL,MF,Millonarios,25,1999,13,6,524,5.8,3,1,4,3,0,0,0,0,0.52,0.17,0.69,0.52,0.69,Matches,e7037a4f
+787,Juan Valencia,co COL,FW,La Equidad,20,2004,13,5,523,5.8,3,4,7,3,0,0,0,1,0.52,0.69,1.20,0.52,1.20,Matches,5eec4f08
+788,Kener Valencia,co COL,FWMF,Llaneros,23,2001,16,5,631,7.0,3,0,3,3,0,0,1,0,0.43,0.00,0.43,0.43,0.43,Matches,b5fc3578
+789,Nicolás Valencia,co COL,MF,Boyacá Chicó,23,2001,7,3,346,3.8,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,4f326c18
+790,Ronald Valencia,co COL,MF,Boyacá Chicó,23,2001,10,4,421,4.7,1,1,2,1,0,0,1,0,0.21,0.21,0.43,0.21,0.43,Matches,e19a02e7
+791,Sebastián Valencia,co COL,DF,Fortaleza FC,28,1996,23,22,1883,20.9,3,3,6,1,2,2,12,1,0.14,0.14,0.29,0.05,0.19,Matches,9765a9dd
+792,Stalin Valencia,ec ECU,DF,Fortaleza FC,21,2003,11,10,863,9.6,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,a585c949
+793,Yeiler Valencia,co COL,DF,Once Caldas,20,2004,4,0,134,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,2f9a3027
+794,Yoshan Valois,co COL,FW,Deportivo Pasto,20,2004,19,19,1626,18.1,10,0,10,10,0,1,5,0,0.55,0.00,0.55,0.55,0.55,Matches,f2c97754
+795,Jhon Valoyes,co COL,FW,Alianza Petrolera,22,2002,3,0,9,0.1,1,0,1,1,0,0,0,0,10.00,0.00,10.00,10.00,10.00,Matches,015a1808
+796,Oscar Vanegas,co COL,DF,U. Magdalena,28,1996,14,13,1146,12.7,1,0,1,1,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches,36c7457a
+797,Ray Vanegas,co COL,FWMF,Deportivo Pasto,31,1993,5,0,94,1.0,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,aecff6f2
+798,Cristopher Varela,ve VEN,GK,La Equidad,25,1999,16,16,1440,16.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,1bdd77c8
+799,Joaquín Varela,uy URU,DF,Deportivo Cali,26,1998,20,20,1789,19.9,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,adc582b2
+800,Joaquín Varela,uy URU,DF,Ind. Medellín,26,1998,3,0,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,adc582b2
+801,Andrés Vargas,co COL,MF,Envigado FC,20,2004,4,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ba29287e
+802,Anthony Vásquez,co COL,FW,Águilas Doradas,22,2002,9,1,275,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,fb32f91e
+803,Jhon Vasquez,co COL,MFFW,Bucaramanga,29,1995,30,11,1093,12.1,2,0,2,2,0,0,5,1,0.16,0.00,0.16,0.16,0.16,Matches,b6832e5e
+804,Juan Vásquez,co COL,DF,Llaneros,25,1999,7,6,532,5.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,f205b7b9
+805,Larry Vásquez,ve VEN,MF,Bucaramanga,33,1991,1,1,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,06d9a2de
+806,Carlos Vega,,DF,Pereira,,,3,2,131,1.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,3407aa27
+807,Oscar Vega,co COL,DF,Llaneros,24,2000,7,5,506,5.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,7d340d03
+808,Stiven Vega,co COL,MF,Millonarios,26,1998,34,28,2435,27.1,0,2,2,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches,cbed8f9e
+809,Edwin Velasco,co COL,DF,Pereira,33,1991,11,11,841,9.3,0,3,3,0,0,0,4,0,0.00,0.32,0.32,0.00,0.32,Matches,5adb19ad
+810,Edwin Velasco,co COL,DF,Deportivo Pasto,33,1991,8,6,556,6.2,0,0,0,0,0,0,2,2,0.00,0.00,0.00,0.00,0.00,Matches,5adb19ad
+811,Jhon Velásquez,co COL,MFFW,Fortaleza FC,29,1995,13,5,393,4.4,1,0,1,1,0,0,2,0,0.23,0.00,0.23,0.23,0.23,Matches,a28e5005
+812,Samuel Velásquez,co COL,DF,Deportes Tolima,21,2003,42,30,2785,30.9,1,3,4,1,0,0,5,0,0.03,0.10,0.13,0.03,0.13,Matches,14a8c907
+813,Yílmar Velásquez,co COL,MF,Santa Fe,25,1999,38,33,2692,29.9,4,1,5,4,0,0,12,1,0.13,0.03,0.17,0.13,0.17,Matches,7fedbb9c
+814,Jhon Vélez,co COL,MF,Junior,21,2003,7,5,377,4.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,c40fd3bb
+815,Isaac Venecia,co COL,DF,Deportivo Cali,18,2006,4,0,121,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,5b9e4dc8
+816,Cristian Vergara,co COL,FW,Alianza Petrolera,25,1999,11,5,490,5.4,2,1,3,2,0,0,0,1,0.37,0.18,0.55,0.37,0.55,Matches,0deb24a5
+817,Duván Vergara,co COL,MFFW,América Cali,28,1996,22,18,1696,18.8,7,2,9,5,2,2,3,0,0.37,0.11,0.48,0.27,0.37,Matches,7faaf973
+818,Hasan Vergara,co COL,FW,Boyacá Chicó,25,1999,3,2,185,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,04798d17
+819,Fabián Viáfara,co COL,DF,Deportivo Cali,32,1992,36,34,2788,31.0,0,1,1,0,0,0,2,0,0.00,0.03,0.03,0.00,0.03,Matches,c54a80ba
+820,Dewar Victoria,co COL,MF,Millonarios,23,2001,28,18,1600,17.8,1,0,1,1,0,0,10,1,0.06,0.00,0.06,0.06,0.06,Matches,9bae8633
+821,Jaider Victoria,co COL,FW,Deportivo Pasto,19,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,ce0657bb
+822,Fabian Villa,,DF,Deportivo Pasto,,,14,7,681,7.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,874c5b2e
+823,Lucas Villa,fr FRA,FW,Alianza Petrolera,18,2006,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,299f0284
+824,Néiser Villarreal,co COL,MFFW,Millonarios,19,2005,15,13,965,10.7,0,2,2,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19,Matches,9200fab7
+825,Charly Villegas,co COL,FW,Alianza Petrolera,19,2005,3,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,e64efff6
+826,Marcus Vinicius,br BRA,FWMF,Ind. Medellín,27,1997,19,4,505,5.6,1,1,2,1,0,0,0,0,0.18,0.18,0.36,0.18,0.36,Matches,d28b9385
+827,Carlos Vivas,ve VEN,DF,La Equidad,22,2002,17,17,1529,17.0,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,8ac2f5dc
+828,Kevin Viveros,co COL,FW,Atlético Nacional,24,2000,20,12,1261,14.0,6,2,8,6,0,0,6,0,0.43,0.14,0.57,0.43,0.57,Matches,f40b94ba
+829,Sebastián Viveros,co COL,MF,Millonarios,20,2004,7,5,397,4.4,1,1,2,1,0,0,0,0,0.23,0.23,0.45,0.23,0.45,Matches,61e5f84b
+830,Alvino Volpi Neto,br BRA,GK,Deportes Tolima,32,1992,9,7,757,8.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,29b8d41d
+831,Johan Wallens,co COL,GK,Alianza Petrolera,32,1992,12,10,990,11.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,13be0fd2
+832,Alexis Zapata,co COL,MFFW,Santa Fe,29,1995,35,26,2088,23.2,4,4,8,4,0,0,2,0,0.17,0.17,0.34,0.17,0.34,Matches,ae8f76c6
+833,Cristián Zapata,co COL,DF,Bucaramanga,38,1986,6,4,401,4.5,1,0,1,1,0,0,1,0,0.22,0.00,0.22,0.22,0.22,Matches,b1deecf8
+834,Daniel Zapata,co COL,FW,Envigado FC,21,2003,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,dc98a279
+835,Jefry Zapata,co COL,MFFW,Once Caldas,24,2000,38,25,1907,21.2,9,3,12,9,0,1,13,1,0.42,0.14,0.57,0.42,0.57,Matches,f08505db
+836,Juan Zapata,co COL,MF,Atlético Nacional,24,2000,25,18,1735,19.3,3,1,4,3,0,0,6,2,0.16,0.05,0.21,0.16,0.21,Matches,fea73077
+837,Aldair Zárate,co COL,MF,Bucaramanga,25,1999,35,25,2095,23.3,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,6548e1f1
+838,Joseph Zea,co COL,FW,Santa Fe,18,2006,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,4b642d16
+839,Mateo Zuleta,co COL,MFFW,Once Caldas,22,2002,38,16,1929,21.4,3,5,8,3,0,0,7,0,0.14,0.23,0.37,0.14,0.37,Matches,2b2c7d68
